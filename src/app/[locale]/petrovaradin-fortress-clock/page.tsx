@@ -10,7 +10,6 @@ import PetrovaradinTransportSection from '@/components/PetrovaradinTransportSect
 import PetrovaradinInfoSection from '@/components/PetrovaradinInfoSection';
 import PetrovaradinRouteSection from '@/components/PetrovaradinRouteSection';
 import PetrovaradinPhotoSpotsSection from '@/components/PetrovaradinPhotoSpotsSection';
-import PetrovaradinHotelsSection from '@/components/PetrovaradinHotelsSection';
 import PetrovaradinGallery from '@/components/PetrovaradinGallery';
 import PetrovaradinReviews from '@/components/PetrovaradinReviews';
 import PetrovaradinMapEmbed from '@/components/PetrovaradinMapEmbed';
@@ -38,7 +37,6 @@ export default async function PetrovaradinPage({
         <PetrovaradinInfoSection />
         <PetrovaradinRouteSection />
         <PetrovaradinPhotoSpotsSection />
-        <PetrovaradinHotelsSection />
         <PetrovaradinGallery />
         <PetrovaradinReviews />
         <PetrovaradinMapEmbed />

@@ -101,7 +101,7 @@ export default function PetrovaradinGallery() {
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
-                href="https://maps.app.goo.gl/XSRbEoyfpym5SYQ78"
+                href="https://maps.app.goo.gl/rhpX5REUaCNdQiqC7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"
