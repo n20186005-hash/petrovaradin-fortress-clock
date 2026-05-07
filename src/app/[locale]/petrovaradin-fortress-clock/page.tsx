@@ -13,7 +13,6 @@ import PetrovaradinPhotoSpotsSection from '@/components/PetrovaradinPhotoSpotsSe
 import PetrovaradinGallery from '@/components/PetrovaradinGallery';
 import PetrovaradinReviews from '@/components/PetrovaradinReviews';
 import PetrovaradinMapEmbed from '@/components/PetrovaradinMapEmbed';
-import PetrovaradinFooter from '@/components/PetrovaradinFooter';
 
 export default async function PetrovaradinPage({
   params,
@@ -41,7 +40,6 @@ export default async function PetrovaradinPage({
         <PetrovaradinReviews />
         <PetrovaradinMapEmbed />
       </main>
-      <PetrovaradinFooter />
     </>
   );
 }
