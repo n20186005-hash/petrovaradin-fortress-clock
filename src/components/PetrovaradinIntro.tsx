@@ -21,6 +21,16 @@ export default function PetrovaradinIntro() {
           </p>
         </div>
 
+        {/* About Section */}
+        <div className="mb-12 p-6 rounded-xl" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}>
+          <h3 className="font-display text-xl sm:text-2xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+            {t('aboutTitle')}
+          </h3>
+          <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+            {t('aboutText')}
+          </p>
+        </div>
+
         {/* Visit Guide */}
         <div className="mb-10">
           <h3 className="font-display text-xl sm:text-2xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
