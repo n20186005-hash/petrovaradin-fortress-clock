@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "The King's Garden (Kongens Have)｜Copenhagen's Oldest Royal Garden & Fairytale Escape - Best European Spots",
+    "description": "Complete guide to The King's Garden (Kongens Have) in Copenhagen. Learn about opening hours, transportation, ticket prices, tour tips and stunning photos. Denmark's oldest royal garden and Hans Christian Andersen's source of inspiration."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "The King's Garden",
+    "subtitle": "Copenhagen's Oldest Royal Garden & Hans Christian Andersen's Fairytale Escape",
+    "rating": "4.6(13,430)",
+    "reviewCount": "13,430 reviews",
+    "hours": "6:00-22:00",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover The King's Garden",
+    "description": "Honestly, the first time you walk into The King's Garden, you might think you've stepped into a Hans Christian Andersen fairytale. I arrived on a May morning, the air filled with the scent of freshly cut grass and delicate rose perfume. Sunlight filtered through the linden branches, casting dappled shadows on the ground, and the cube-shaped hedges stood like green building blocks, neatly lined along the avenue.\n\nWalking down the linden avenue, you can see the copper-green spire of Rosenborg Castle glinting in the sun from afar. The moat water is crystal clear, with several white swans swimming leisurely, occasionally dipping their heads to preen their feathers. The lawns are already busy: people spread checkered blankets for picnics, others lie in the sun, and a few children chase butterflies, their laughter as clear as wind chimes.\n\nWhat touches me most about The King's Garden is its unpretentious warmth. There are no stern guards, no expensive tickets. You can just sit on any bench, watch the clouds drift by, and listen to the wind rustle through the leaves.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Recommended to visit before 9 AM or after 4 PM to avoid tour groups",
+        "The King's Garden is free; Rosenborg Castle requires admission",
+        "Roses bloom in summer; June-August is the best viewing period",
+        "Bring your own food for a relaxing picnic on the lawn"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Denmark's oldest royal garden with 400 years of history",
+        "Rosenborg Castle & Royal Treasury",
+        "Nordic Renaissance landscape masterpiece",
+        "Hans Christian Andersen's fairytale inspiration"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "The Charm of The King's Garden",
+    "sections": [
+      {
+        "id": "history",
+        "title": "400 Years of Royal History",
+        "content": "This garden full of laughter today has over 400 years of royal history. In 1606, the ambitious Danish King Christian IV ordered its construction. Originally, it was just a royal hunting ground and vegetable garden, providing fresh produce for the palace. In 1634, Rosenborg Castle was built in the center of the garden, making it the royal summer residence, accessible only to nobles and the royal family.\n\nAt the end of the 18th century, with the spread of democratic ideas, The King's Garden opened to the public, becoming Copenhagen's first public park. In the 19th century, the garden underwent major renovations, adding a rose garden, sculptures and avenues, forming the layout we see today."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Garden Features",
+        "content": "Based on geometrically symmetrical Baroque layout, blended with the wild charm of English natural gardens. Features cube-shaped linden hedges, winding moats, seasonal flower beds, and the central Rosenborg Castle. Combines Nordic Renaissance and Baroque garden styles, with later Romantic additions. Features clean, elegant lines and natural color harmony.\n\nThe garden houses numerous 19th-century sculptures, and the rose garden boasts over 100 rose varieties that bloom in summer, creating a fairytale-like atmosphere."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "Transformed from an exclusive royal hunting ground and vegetable garden to a shared public space, it inspired writers like Hans Christian Andersen, who often walked here and wrote many fairy tales. Today it is the heart of Copenhagen's daily life, hosting picnics, walks, concerts and cultural events, embodying Denmark's \"hygge\" philosophy.\n\nIn spring, cherry blossoms bloom, turning the garden into a pink sea; in summer, roses bloom and fill the air with fragrance; in autumn, the leaves turn golden and cover the paths; in winter, snow covers everything, creating an icy fairytale."
+      },
+      {
+        "id": "rosenborg",
+        "title": "Rosenborg Castle",
+        "content": "Rosenborg Castle is the most striking building in the garden center, built in 1634 as the summer palace of King Christian IV of Denmark. Today, the castle houses the Danish Crown Jewels, the famous Amber Room, and portraits of past monarchs.\n\nRosenborg Castle is open 10:00-17:00 (closed Mondays, open Mondays Jun-Aug). Admission: 140 DKK adults, 70 DKK students, free under 17. We recommend allowing 1-2 hours for your visit."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Kongens Have (The King's Garden)",
+    "type": "Attraction Type",
+    "typeValue": "Royal Garden, Historic Park, Urban Recreation Area",
+    "country": "Country",
+    "countryValue": "Denmark",
+    "city": "City",
+    "cityValue": "Copenhagen",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "Øster Voldgade 4A, 1307 København, Denmark"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "summer": "Summer (Apr 1 - Sep 30)",
+    "summerTime": "6:00-22:00",
+    "winter": "Winter (Oct 1 - Mar 31)",
+    "winterTime": "7:00-20:00",
+    "christmas": "Christmas (Dec 24-25)",
+    "christmasTime": "10:00-18:00",
+    "rosenborg": "Rosenborg Castle",
+    "rosenborgTime": "10:00-17:00 (closed Mondays, open Mondays Jun-Aug)",
+    "tip": "Recommended to visit before 9 AM or after 4 PM for soft light and fewer crowds"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "garden": "The King's Garden",
+    "gardenPrice": "Free admission, no ticket required",
+    "rosenborg": "Rosenborg Castle (including Royal Treasury)",
+    "adults": "Adults",
+    "adultsPrice": "140 DKK",
+    "students": "Students",
+    "studentsPrice": "70 DKK",
+    "under17": "Under 17",
+    "under17Price": "Free",
+    "card": "Copenhagen Card",
+    "cardPrice": "~399 DKK/24 hours, includes free entry to Rosenborg Castle and public transport"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "metro": "Metro (Most Recommended)",
+    "metroDesc": "Take Metro Line M2 from Terminal 3 (T3) of the airport, directly to Nørreport Station (approx. 15 minutes). Exit 5 and walk 5 minutes to the main entrance. Ticket: 36 DKK (3-zone ticket), operates 24/7.",
+    "train": "Train",
+    "trainDesc": "Take the DSB regional train from the underground train station at T3, directly to Copenhagen Central Station in 13 minutes. Walk 10 minutes or transfer to bus 1A/2A. Ticket: 36 DKK.",
+    "bus": "Bus 5C",
+    "busDesc": "Take bus 5C from the bus stop outside T3, directly to Nørreport Station in approx. 35 minutes, then walk 5 minutes. Ticket: 36 DKK.",
+    "taxi": "Taxi",
+    "taxiDesc": "Journey time: approx. 20-25 minutes. Cost: 250-300 DKK during the day, 300-350 DKK at night/weekends. Credit cards accepted.",
+    "rideshare": "Rideshare",
+    "rideshareDesc": "Use Uber or Bolt apps to book a ride. Prices are about 20% lower than taxis, approx. 200-280 DKK.",
+    "fromStation": "From Copenhagen Central Station",
+    "fromStationDesc": "Take Metro Line 2 or 6 to Nørreport Station, walk 5 minutes from the exit.",
+    "fromNyhavn": "From Nyhavn",
+    "fromNyhavnDesc": "15-minute walk north along Gothersgade Street, enjoy colorful historic houses along the way.",
+    "cycling": "Cycling",
+    "cyclingDesc": "Copenhagen is bike-friendly, multiple bike parking spots near the garden, ~30 DKK/hour for single ride."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Recommended to visit around 9 AM. Start from the main entrance, walk down the linden avenue to Rosenborg Castle, visit the rose garden, then walk along the moat to feed swans, and finally have a picnic on the lawn. The whole tour takes about 2-3 hours, add 1-2 hours if visiting Rosenborg Castle.",
+    "steps": [
+      "Exit Nørreport Station through Exit 5, cross the street and enter the main entrance of The King's Garden. The first thing you'll see is the neatly trimmed linden avenue",
+      "Walk down the linden avenue, and in the middle of the avenue you'll see the bronze statue of Christian IV, the builder of The King's Garden",
+      "Continue forward to the square in front of Rosenborg Castle, which is the best spot to take a full view of the castle",
+      "Enter the rose garden from the left side of the square, admire over 100 different varieties of roses. June-August is the best viewing period",
+      "Walk around to the back of Rosenborg Castle and stroll along the moat, where you can see swans and ducks. Remember to bring some bread crumbs to feed them",
+      "Walk to the children's playground in the northeast corner of the garden, which has vintage wooden play equipment, perfect for families with kids",
+      "Find a sunny lawn, spread a blanket, and enjoy a leisurely picnic",
+      "Finally, exit through the west gate of the garden, and walk 5 minutes to the Round Tower to continue your Copenhagen tour"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Center of Linden Avenue",
+        "desc": "Use a wide-angle lens to capture the depth, the light and shadow effect through the leaves is excellent"
+      },
+      {
+        "name": "In front of Rosenborg Castle Moat",
+        "desc": "Capture the reflection of Rosenborg Castle in the water, the reflection is clearest in the early morning and evening"
+      },
+      {
+        "name": "Rose Garden Arch",
+        "desc": "Stand under the arch of the rose garden, with blooming roses in the foreground and Rosenborg Castle in the background"
+      },
+      {
+        "name": "Cherry Blossom Avenue",
+        "desc": "From late April to early May every year, the cherry blossom avenue on the west side of the garden is in full bloom, the best spot for cherry blossom photos"
+      },
+      {
+        "name": "Lawn Picnic Scene",
+        "desc": "Capture the warm picnic scene with Rosenborg Castle in the background, perfect for families and couples"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Hotel Rosenborg",
+        "desc": "2-minute walk from The King's Garden, rooms overlook the garden, breakfast includes Danish pastries",
+        "price": "~1200 DKK/night"
+      },
+      {
+        "name": "Nørrebro Design Hotel",
+        "desc": "10-minute walk from The King's Garden, Nordic minimalist design, rooms with floor-to-ceiling windows",
+        "price": "~1000 DKK/night"
+      },
+      {
+        "name": "Andersen Guesthouse",
+        "desc": "Located in an old building near the garden, rooms decorated with fairytale elements, the hostess provides free Danish coffee and cookies",
+        "price": "~800 DKK/night"
+      },
+      {
+        "name": "Copenhagen City Hostel",
+        "desc": "15-minute walk from The King's Garden, offers dormitories and private rooms, common area with kitchen and lounge",
+        "price": "~300 DKK/night"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "The King's Garden Through the Seasons",
+    "captions": [
+      "Panoramic view of The King's Garden",
+      "Rosenborg Castle and the Moat",
+      "Linden Avenue",
+      "Rose Garden",
+      "Swans on the Moat",
+      "Cherry Blossoms in Spring",
+      "Summer Garden",
+      "Autumn Colors"
+    ],
+    "viewAll": "View on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Sarah M.",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "Absolutely magical! Like stepping into a Hans Christian Andersen fairytale. The roses were in full bloom, filling the air with their perfume, and the swans gliding gracefully on the moat - everything was perfect."
+      },
+      {
+        "name": "Emma W.",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "A free royal garden - Danes really know how to enjoy life! Find a sunny afternoon, spread out a picnic on the grass, and just relax. It's the perfect way to spend time."
+      },
+      {
+        "name": "John D.",
+        "date": "January 2026",
+        "rating": 4,
+        "text": "Rosenborg Castle is well worth visiting - the crown jewels and Amber Room are impressive. I'd recommend buying the Copenhagen Card to save money and get around easily."
+      },
+      {
+        "name": "Michael T.",
+        "date": "December 2025",
+        "rating": 5,
+        "text": "The winter King's Garden has its own charm - quiet and peaceful. The moat had a thin layer of ice, but the swans were still swimming. So romantic!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "Øster Voldgade 4A, 1307 København, Denmark",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 The King's Garden Independent Travel Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "council": "Visit Denmark",
+      "tourism": "Visit Copenhagen",
+      "england": "Copenhagen Card"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About The King's Garden",
+    "text": "The King's Garden is managed and maintained by the Danish Ministry of Culture, and is one of the most important historical and cultural heritage sites in Copenhagen.\n\nAs Denmark's oldest royal garden, The King's Garden has witnessed over 400 years of Danish royal history. Today, the garden is open to the public free of charge, serving as the core recreational space for Copenhageners and an important window for visitors from around the world to learn about Danish history and culture."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "The Round Tower (Rundetårn)", "url": "https://www.rundetaarn.dk"},
+      {"name": "Nyhavn", "url": "https://www.visitcopenhagen.dk"},
+      {"name": "Tivoli Gardens", "url": "https://www.tivoli.dk"},
+      {"name": "Frederik's Church", "url": "https://www.frederikskirken.dk"}
+    ],
+    "tours": [
+      {"name": "Copenhagen City Tour", "url": "https://www.stromma.dk"},
+      {"name": "Canal Cruise", "url": "https://www.copenhagencanals.com"},
+      {"name": "Bike City Tour", "url": "https://www.bikecph.com"},
+      {"name": "Food & Culture Tour", "url": "https://www.withlocals.com"}
+    ]
+  }
+}
