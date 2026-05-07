@@ -148,13 +148,13 @@
     "title": "Accommodation",
     "hotels": [
       {
-        "name": "Hotel Leopold I",
+        "name": "Fortress Top",
         "desc": "Located at the top of the fortress, this historic hotel converted from Baroque architecture offers Danube views and a royal vintage experience.",
         "price": "€150-300/night"
       },
       {
-        "name": "Petrovaradin Town Guesthouses",
-        "desc": "Stay at guesthouses in the Petrovaradin town below the fortress, offering affordable prices and authentic 18th-century Austro-Hungarian border town atmosphere.",
+        "name": "Town Below the Fortress",
+        "desc": "Stay at guesthouses in the town below the fortress, offering affordable prices and authentic 18th-century Austro-Hungarian border town atmosphere.",
         "price": "€40-80/night"
       },
       {
@@ -163,7 +163,7 @@
         "price": "€60-120/night"
       }
     ],
-    "exitWarning": "During EXIT Festival in the second week of July, Petrovaradin Fortress is sealed off as the world's largest open-air party venue. Hotel prices across the city surge 3-5x and are extremely hard to book. If you're not a festival-goer, avoid this period. If coming for the festival, book accommodations at least 6 months in advance."
+    "exitWarning": "During EXIT Festival in the second week of July, Petrovaradin Fortress will be sealed off as the world's largest open-air party venue. Hotel prices across the city surge 3-5x and are extremely hard to book. If you're not a festival-goer, avoid this period. If coming for the festival, book accommodations at least 6 months in advance."
   },
   "gallery": {
     "title": "Photo Gallery",
