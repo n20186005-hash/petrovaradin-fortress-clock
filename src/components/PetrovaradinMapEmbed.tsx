@@ -3,7 +3,7 @@
 import { useTranslations } from 'next-intl';
 
 export default function PetrovaradinMapEmbed() {
-  const t = useTranslations('petrovaradin.mapSection');
+  const t = useTranslations('mapSection');
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>

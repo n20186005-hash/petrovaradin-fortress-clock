@@ -1,7 +1,7 @@
 import { useTranslations } from 'next-intl';
 
 export default function PetrovaradinHotelsSection() {
-  const t = useTranslations('petrovaradin.hotels');
+  const t = useTranslations('hotels');
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-primary)' }}>

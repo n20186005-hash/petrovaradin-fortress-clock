@@ -20,9 +20,9 @@ function Stars({ count }: { count: number }) {
 }
 
 export default function PetrovaradinReviews() {
-  const t = useTranslations('petrovaradin.reviews');
+  const t = useTranslations('reviews');
   const messages = useMessages() as any;
-  const items = (messages?.petrovaradin?.reviews?.items || []) as Array<{
+  const items = (messages?.reviews?.items || []) as Array<{
     name: string;
     date: string;
     rating: number;

@@ -1,7 +1,7 @@
 import { useTranslations } from 'next-intl';
 
 export default function PetrovaradinHoursSection() {
-  const t = useTranslations('petrovaradin.hours');
+  const t = useTranslations('hours');
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-primary)' }}>

@@ -1,7 +1,7 @@
 import { useTranslations } from 'next-intl';
 
 export default function PetrovaradinInfoSection() {
-  const t = useTranslations('petrovaradin.knowledge');
+  const t = useTranslations('knowledge');
 
   const sections = [
     { id: 'history', icon: 'M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z' },

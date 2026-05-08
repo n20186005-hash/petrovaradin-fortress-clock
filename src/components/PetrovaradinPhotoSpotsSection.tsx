@@ -1,7 +1,7 @@
 import { useTranslations } from 'next-intl';
 
 export default function PetrovaradinPhotoSpotsSection() {
-  const t = useTranslations('petrovaradin.photoSpots');
+  const t = useTranslations('photoSpots');
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>

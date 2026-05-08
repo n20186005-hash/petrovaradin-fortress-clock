@@ -1,7 +1,7 @@
 import { useTranslations } from 'next-intl';
 
 export default function PetrovaradinTransportSection() {
-  const t = useTranslations('petrovaradin.transport');
+  const t = useTranslations('transport');
 
   const transportOptions = [
     { key: 'walking', icon: 'M13 4v16l7-4 7 4V4a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2z' },

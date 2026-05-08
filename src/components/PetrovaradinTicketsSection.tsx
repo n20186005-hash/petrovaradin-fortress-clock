@@ -1,7 +1,7 @@
 import { useTranslations } from 'next-intl';
 
 export default function PetrovaradinTicketsSection() {
-  const t = useTranslations('petrovaradin.tickets');
+  const t = useTranslations('tickets');
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>

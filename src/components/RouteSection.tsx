@@ -28,7 +28,7 @@ export default function RouteSection() {
           />
 
           <div className="space-y-6">
-            {Array.from({ length: 8 }, (_, i) => i + 1).map((step) => (
+            {Array.from({ length: 6 }, (_, i) => i + 1).map((step) => (
               <RouteStep
                 key={step}
                 step={step}

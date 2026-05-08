@@ -1,7 +1,7 @@
 import { useTranslations } from 'next-intl';
 
 export default function PetrovaradinFooter() {
-  const t = useTranslations('petrovaradin.footer');
+  const t = useTranslations('footer');
 
   return (
     <footer className="py-12 px-4" style={{ background: 'var(--footer-bg)', borderTop: '1px solid var(--border-color)' }}>

@@ -21,7 +21,7 @@ const photos = [
 ];
 
 export default function PetrovaradinGallery() {
-  const t = useTranslations('petrovaradin.gallery');
+  const t = useTranslations('gallery');
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
 
