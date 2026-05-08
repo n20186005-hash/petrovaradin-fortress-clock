@@ -44,9 +44,11 @@ export default async function PetrovaradinPage({
   );
 }
 
-export function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const messages = (await import(`@/messages/${locale}.json`)).default;
   return {
-    title: 'petrovaradin.meta.title',
-    description: 'petrovaradin.meta.description',
+    title: messages.meta.title,
+    description: messages.meta.description,
   };
 }

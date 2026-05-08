@@ -33,6 +33,13 @@
         "18th-century Baroque architecture, white tower with red walls",
         "Venue of EXIT Festival, iconic backdrop of European Capital of Culture"
       ]
+    },
+    "alsoKnownAs": {
+      "title": "Also Known As",
+      "items": [
+        "Drunken Clock",
+        "Gibraltar of the Danube"
+      ]
     }
   },
   "basicInfo": {
@@ -248,5 +255,9 @@
     "title": "How to Get Here",
     "subtitle": "Petrovaradinska tvrđava, Petrovaradin 21131, Serbia",
     "openMaps": "View on Google Maps"
+  },
+  "officialManagement": {
+    "title": "About Petrovaradin Fortress Clock Tower",
+    "text": "The Petrovaradin Fortress Clock Tower is managed and maintained by the City of Novi Sad, Serbia, and is one of the most important historical and cultural heritage sites in Novi Sad. As the most recognizable landmark clock tower in Serbia, Petrovaradin Fortress Clock Tower has witnessed over 300 years of history of this Danube riverside city. Today, the clock tower is open to the public free of charge, serving as the core panoramic viewpoint for Novi Sad citizens overlooking the city and the Danube, as well as an important window for visitors from around the world to learn about Serbian history and culture."
   }
 }

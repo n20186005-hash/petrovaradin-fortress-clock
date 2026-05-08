@@ -7,7 +7,7 @@ import { useState, useEffect } from 'react';
 
 export default function Header({ locale = 'en' }: { locale?: string }) {
   const t = useTranslations('header');
-  const tPetro = useTranslations('petrovaradin.hero');
+  const tPetro = useTranslations('hero');
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {

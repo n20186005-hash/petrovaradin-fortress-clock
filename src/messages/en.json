@@ -40,7 +40,14 @@
       ]
     },
     "aboutTitle": "About Petrovaradin Fortress Clock Tower",
-    "aboutText": "The Petrovaradin Fortress Clock Tower is managed and maintained by the City of Novi Sad, Serbia, and is one of the most important historical and cultural heritage sites in Novi Sad. As the most recognizable landmark clock tower in Serbia, Petrovaradin Fortress Clock Tower has witnessed over 300 years of history of this Danube riverside city. Today, the clock tower is open to the public free of charge, serving as the core panoramic viewpoint for Novi Sad citizens overlooking the city and the Danube, as well as an important window for visitors from around the world to learn about Serbian history and culture."
+    "aboutText": "The Petrovaradin Fortress Clock Tower is managed and maintained by the City of Novi Sad, Serbia, and is one of the most important historical and cultural heritage sites in Novi Sad. As the most recognizable landmark clock tower in Serbia, Petrovaradin Fortress Clock Tower has witnessed over 300 years of history of this Danube riverside city. Today, the clock tower is open to the public free of charge, serving as the core panoramic viewpoint for Novi Sad citizens overlooking the city and the Danube, as well as an important window for visitors from around the world to learn about Serbian history and culture.",
+    "alsoKnownAs": {
+      "title": "Also Known As",
+      "items": [
+        "Drunken Clock",
+        "Gibraltar of the Danube"
+      ]
+    }
   },
   "basicInfo": {
     "title": "Basic Information",
@@ -126,7 +133,7 @@
     "fromNyhavnDesc": "About 2 km away; a 25-30 minute scenic walk through the old town and across the river."
   },
   "footer": {
-    "logo": "Petrovaradin Fortress Clock Tower",
+    "logo": "Petrovaradin Fortress Clock",
     "rights": "© 2026 Petrovaradin Fortress Clock Tower Independent Travel Research Association · All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
@@ -181,5 +188,9 @@
         "content": "We shall not be liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained therein."
       }
     ]
+  },
+  "officialManagement": {
+    "title": "About Petrovaradin Fortress Clock Tower",
+    "text": "The Petrovaradin Fortress Clock Tower is managed and maintained by the City of Novi Sad, Serbia, and is one of the most important historical and cultural heritage sites in Novi Sad. As the most recognizable landmark clock tower in Serbia, Petrovaradin Fortress Clock Tower has witnessed over 300 years of history of this Danube riverside city. Today, the clock tower is open to the public free of charge, serving as the core panoramic viewpoint for Novi Sad citizens overlooking the city and the Danube, as well as an important window for visitors from around the world to learn about Serbian history and culture."
   }
 }
