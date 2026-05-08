@@ -4,7 +4,7 @@
     "description": "Complete guide to Petrovaradin Fortress Clock Tower in Novi Sad, Serbia. Learn about opening hours, transportation, ticket prices, tour tips and stunning photos. The legendary 'Drunken Clock' with breathtaking Danube views."
   },
   "hero": {
-    "title": "Petrovaradin Fortress Clock Tower",
+    "title": "Petrovaradin Fortress Clock",
     "subtitle": "The Legendary 'Drunken Clock' & Danube River Panorama in Novi Sad, Serbia",
     "rating": "4.8(14,043)",
     "reviewCount": "14,043 reviews",
@@ -60,7 +60,15 @@
     "cafe": "Cafés & Panoramic Restaurants",
     "cafeDesc": "Monday - Sunday (extended hours in summer)",
     "cafeTime": "09:00-23:00",
-    "tip": "Strongly recommended to arrive half an hour before sunset for the best views of Novi Sad's skyline and Danube sunset."
+    "tip": "Strongly recommended to arrive half an hour before sunset for the best views of Novi Sad's skyline and Danube sunset.",
+    "summer": "Fortress Viewpoint (Summer)",
+    "summerTime": "24 Hours",
+    "winter": "Fortress Viewpoint (Winter)",
+    "winterTime": "24 Hours",
+    "christmas": "Underground Catacombs",
+    "christmasTime": "09:00 - 17:00 (Guided only)",
+    "rosenborg": "Panoramic Restaurants & Cafés",
+    "rosenborgTime": "09:00 - 23:00"
   },
   "tickets": {
     "title": "Ticket Prices",
@@ -69,7 +77,18 @@
     "fortressDesc": "The fortress grounds and clock tower exterior are free to visit. No admission fee required.",
     "catacombs": "Military Catacombs",
     "catacombsDesc": "Separate tickets required for the underground military tunnels (Catacombs) or Novi Sad City Museum.",
-    "catacombsNote": "Guided tours are strongly recommended for the underground tunnels."
+    "catacombsNote": "Guided tours are strongly recommended for the underground tunnels.",
+    "garden": "Fortress Grounds & Clock Tower",
+    "gardenPrice": "Free",
+    "rosenborg": "Underground Military Tunnels",
+    "adults": "Adults",
+    "adultsPrice": "300 RSD",
+    "students": "Students/Children",
+    "studentsPrice": "150 RSD",
+    "under17": "Children under 7",
+    "under17Price": "Free",
+    "card": "Novi Sad City Museum Ticket",
+    "cardPrice": "Included with museum admission"
   },
   "transport": {
     "title": "How to Get Here",
@@ -78,14 +97,26 @@
       "badge": "Recommended",
       "desc": "Starting from Danube Park in central Novi Sad, walk east across the Varadin Bridge over the Danube, then climb the steps (~214 steps) at the fortress base. The 20-30 minute walk leads directly to the top observation platform with the clock tower."
     },
-    "bus": {
-      "title": "Bus",
-      "desc": "Take bus lines 3, 9, 61, 62, or 64 across the river. Get off at the first stop after the bridge (at the fortress base) and walk up the hill."
-    },
+    "bus": "Car / Taxi",
     "car": {
       "title": "Car / Taxi",
       "desc": "Vehicles can drive up the winding mountain road to the fortress. Free or paid parking is available near the clock tower. Taxis from central Novi Sad take only 10 minutes to the fortress top."
-    }
+    },
+    "metro": "Walking (Highly Recommended)",
+    "metroDesc": "From Danube Park, walk across Varadin Bridge and climb ~214 steps to the top.",
+    "train": "Bus",
+    "trainDesc": "Take bus 3, 9, 61, 62, or 64 across the river and walk up from the first stop.",
+    "busDesc": "Drive up the winding road to the fortress parking, or take a 10-min taxi from the city center.",
+    "taxi": "Tour Bus",
+    "taxiDesc": "Large tour buses can park at the designated parking lot below the fortress.",
+    "rideshare": "Rideshare",
+    "rideshareDesc": "Use Yandex Go or local taxi apps for a quick ride to the fortress top.",
+    "cycling": "Cycling",
+    "cyclingDesc": "Cycling is allowed, but the steep climb is recommended only for experienced cyclists.",
+    "fromStation": "From Train Station",
+    "fromStationDesc": "About 3.5 km away; take bus 61 or 62, or a taxi.",
+    "fromNyhavn": "From Liberty Square",
+    "fromNyhavnDesc": "About 2 km away; a 25-30 minute scenic walk through the old town and across the river."
   },
   "knowledge": {
     "title": "The Charm of the Clock Tower",
