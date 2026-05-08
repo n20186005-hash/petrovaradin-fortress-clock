@@ -1,6 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/navigation';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
@@ -26,9 +27,9 @@ export default function Header({ locale = 'en' }: { locale?: string }) {
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href={locale === 'zh' ? '/zh/petrovaradin-fortress-clock' : '/en/petrovaradin-fortress-clock'} className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
+        <Link href="/petrovaradin-fortress-clock" className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
           {tPetro('title')}
-        </a>
+        </Link>
 
         <nav className="hidden md:flex items-center gap-6">
           {(['gallery', 'reviews', 'map'] as const).map((section) => (

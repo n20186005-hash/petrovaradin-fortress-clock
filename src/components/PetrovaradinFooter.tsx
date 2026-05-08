@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/navigation';
 
 export default function PetrovaradinFooter() {
   const t = useTranslations('footer');
@@ -18,12 +19,12 @@ export default function PetrovaradinFooter() {
 
         {/* Links */}
         <div className="flex flex-wrap justify-center gap-6 mb-8">
-          <a href="/petrovaradin-fortress-clock/privacy-policy" className="text-sm hover:underline" style={{ color: 'var(--accent)' }}>
+          <Link href="/petrovaradin-fortress-clock/privacy-policy" className="text-sm hover:underline" style={{ color: 'var(--accent)' }}>
             {t('privacy')}
-          </a>
-          <a href="/petrovaradin-fortress-clock/terms-of-service" className="text-sm hover:underline" style={{ color: 'var(--accent)' }}>
+          </Link>
+          <Link href="/petrovaradin-fortress-clock/terms-of-service" className="text-sm hover:underline" style={{ color: 'var(--accent)' }}>
             {t('terms')}
-          </a>
+          </Link>
         </div>
 
         {/* Disclaimer */}
