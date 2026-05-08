@@ -32,7 +32,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - The King's Garden"
+            title="Google Maps - Tourist Attraction"
           />
         </div>
 

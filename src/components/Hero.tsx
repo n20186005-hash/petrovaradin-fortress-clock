@@ -9,7 +9,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/images (1).jpg"
-          alt="The King's Garden"
+          alt={locale === 'zh' ? '旅游景点' : 'Tourist Attraction'}
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />

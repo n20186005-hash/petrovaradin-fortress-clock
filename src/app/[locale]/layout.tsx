@@ -14,10 +14,13 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  
+  // 默认加载通用翻译文件
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://thekingsgarden.info';
+  
+  const baseUrl = 'https://petrovaradintower.com';
 
-  const zhUrl = `${baseUrl}/`;
+  const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
   const selfUrl = locale === 'zh' ? zhUrl : enUrl;
 
@@ -36,7 +39,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "The King's Garden",
+      siteName: "Petrovaradin Fortress Clock",
       locale: locale === 'zh' ? 'zh_CN' : 'en_US',
       type: 'website',
     },
