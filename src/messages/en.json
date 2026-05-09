@@ -145,6 +145,27 @@
     },
     "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
   },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Petrovaradin Fortress Clock Tower & Novi Sad Panorama",
+    "captions": [
+      "Fortress Clock Tower Panorama",
+      "Clock Tower at Night",
+      "Danube River",
+      "Fortress Walls",
+      "Novi Sad Skyline",
+      "Clock Tower at Sunset",
+      "Fortress Interior",
+      "Art Studios",
+      "Fortress Gate",
+      "Clock Tower Close-up",
+      "Varadin Bridge View",
+      "Fortress Pathways",
+      "Night View of Novi Sad",
+      "Historical Cannons"
+    ],
+    "viewAll": "View on Google Maps"
+  },
   "privacy": {
     "title": "Privacy Policy",
     "lastUpdated": "Last updated: May 2026",

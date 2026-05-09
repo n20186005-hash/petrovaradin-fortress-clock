@@ -4,20 +4,20 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/images (1).jpg', alt: '国王花园全景' },
-  { src: '/gallery/images (2).jpg', alt: '罗森堡宫与护城河' },
-  { src: '/gallery/images (3).jpg', alt: '椴树大道' },
-  { src: '/gallery/images (4).jpg', alt: '玫瑰园' },
-  { src: '/gallery/images (5).jpg', alt: '护城河天鹅' },
-  { src: '/gallery/images (6).jpg', alt: '春日樱花' },
-  { src: '/gallery/images (7).jpg', alt: '夏日中花园' },
-  { src: '/gallery/images (8).jpg', alt: '秋色落叶' },
-  { src: '/gallery/images (9).jpg', alt: '罗森堡宫' },
-  { src: '/gallery/images (10).jpg', alt: '花园小径' },
-  { src: '/gallery/images (11).jpg', alt: '阳光午后' },
-  { src: '/gallery/images (12).jpg', alt: '夜景灯光' },
-  { src: '/gallery/images (13).jpg', alt: '草坪休闲' },
-  { src: '/gallery/images (14).jpg', alt: '冬日雪景' },
+  { src: '/gallery/images (1).jpg', alt: 'gallery_1' },
+  { src: '/gallery/images (2).jpg', alt: 'gallery_2' },
+  { src: '/gallery/images (3).jpg', alt: 'gallery_3' },
+  { src: '/gallery/images (4).jpg', alt: 'gallery_4' },
+  { src: '/gallery/images (5).jpg', alt: 'gallery_5' },
+  { src: '/gallery/images (6).jpg', alt: 'gallery_6' },
+  { src: '/gallery/images (7).jpg', alt: 'gallery_7' },
+  { src: '/gallery/images (8).jpg', alt: 'gallery_8' },
+  { src: '/gallery/images (9).jpg', alt: 'gallery_9' },
+  { src: '/gallery/images (10).jpg', alt: 'gallery_10' },
+  { src: '/gallery/images (11).jpg', alt: 'gallery_11' },
+  { src: '/gallery/images (12).jpg', alt: 'gallery_12' },
+  { src: '/gallery/images (13).jpg', alt: 'gallery_13' },
+  { src: '/gallery/images (14).jpg', alt: 'gallery_14' },
 ];
 
 export default function Gallery() {
@@ -35,6 +35,10 @@ export default function Gallery() {
 
   const openLightbox = () => setIsLightboxOpen(true);
   const closeLightbox = () => setIsLightboxOpen(false);
+
+  const getCaption = (index: number) => {
+    return t(`captions.${index}`);
+  };
 
   return (
     <>
@@ -62,14 +66,14 @@ export default function Gallery() {
                 >
                   <img
                     src={photo.src}
-                    alt={photo.alt}
+                    alt={getCaption(i)}
                     className="w-full h-full object-cover rounded-lg"
                     style={{ minHeight: i === 0 ? '400px' : '180px' }}
                     loading="lazy"
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                      {photo.alt}
+                      {getCaption(i)}
                     </p>
                   </div>
                 </div>
@@ -138,7 +142,7 @@ export default function Gallery() {
 
           <img
             src={photos[currentIndex].src}
-            alt={photos[currentIndex].alt}
+            alt={getCaption(currentIndex)}
             className="max-w-[90vw] max-h-[85vh] object-contain rounded-lg"
             onClick={(e) => e.stopPropagation()}
           />
