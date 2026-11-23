@@ -1,0 +1,1056 @@
+{
+  "fortress": {
+    "start": "lower-town",
+    "end": "fortress-terrace",
+    "background": {
+      "en": "The bastion plan lets defenders cover the next length of wall from an angle. On the ascent, look for the contrast between the low earthen profiles inland and the steep river bluff.",
+      "zh": "棱堡的折角可覆盖相邻墙段。上坡时留意陆地一侧的低矮土垒与临河陡坡之间的反差。"
+    },
+    "photoTip": {
+      "en": "From the Novi Sad bank near Varadin Bridge, frame the entire bluff before climbing.",
+      "zh": "上山前在瓦拉丁桥附近的诺维萨德一侧河岸取景，可拍到整段崖壁。"
+    },
+    "faq": {
+      "en": {
+        "question": "Which side shows the fortress best?",
+        "answer": "Use the Novi Sad riverbank for the silhouette and the Upper Town for a close look at the walls."
+      },
+      "zh": {
+        "question": "哪一侧最适合看要塞全貌？",
+        "answer": "诺维萨德一侧河岸适合看整体轮廓，想近看城墙则应登上上城。"
+      }
+    },
+    "tagline": {
+      "en": "Bastions above a Danube bend",
+      "zh": "多瑙河湾上方的棱堡"
+    },
+    "type": {
+      "en": "Fortification",
+      "zh": "军事遗迹"
+    },
+    "feature": {
+      "en": "The Lower Town, hilltop clock and public terrace are three stops at different elevations. Begin on Beogradska to see the defensive profile gradually open up.",
+      "zh": "下城、山顶钟楼和公共露台位于三个不同高度。由贝尔格莱德街起步，可随着上坡逐渐看清防御工事的轮廓。"
+    }
+  },
+  "lower-town": {
+    "start": "st-george-petrovaradin",
+    "end": "st-paul",
+    "background": {
+      "en": "The Lower Town was laid out around the military and residential needs of the fortress. Doorways, rooflines and narrow building plots make that scale easier to read on foot.",
+      "zh": "下城的格局源自要塞的军事与居住需求。步行时可从门廊、屋顶轮廓和狭长地块看出街区的尺度。"
+    },
+    "photoTip": {
+      "en": "Photograph the sloping row of façades from a public corner on Beogradska.",
+      "zh": "在贝尔格莱德街的公共街角取景，拍下沿坡展开的立面。"
+    },
+    "faq": {
+      "en": {
+        "question": "Is the Lower Town part of the hilltop visit?",
+        "answer": "They are two levels of the same fortress complex. Allow extra time for the climb between them."
+      },
+      "zh": {
+        "question": "下城和山顶是同一个游览点吗？",
+        "answer": "两者属于同一要塞建筑群，分处不同高度，往返请预留上坡时间。"
+      }
+    },
+    "tagline": {
+      "en": "Baroque streets below the ramparts",
+      "zh": "城墙下的巴洛克街巷"
+    },
+    "type": {
+      "en": "Historic quarter",
+      "zh": "历史街区"
+    },
+    "feature": {
+      "en": "Use the two churches as landmarks and explore the small blocks between them. Parts of the district still serve as a residential neighbourhood.",
+      "zh": "可用两座教堂辨认方向，步行看它们之间的小街坊。街区至今仍有居民生活。"
+    }
+  },
+  "st-george-petrovaradin": {
+    "start": "lower-town",
+    "end": "st-paul",
+    "background": {
+      "en": "The church and former Jesuit buildings are read as one ensemble. Compare the church entrance with the more restrained adjoining buildings before continuing through the quarter.",
+      "zh": "教堂与原耶稣会建筑构成一组建筑群。离开前可对照教堂入口与相邻建筑较克制的立面。"
+    },
+    "photoTip": {
+      "en": "Use the pavement across Beogradska for the frontage, keeping clear of the carriageway.",
+      "zh": "在贝尔格莱德街对面的人行道拍摄立面，避开车道。"
+    },
+    "faq": {
+      "en": {
+        "question": "Can I see the crypt on my own?",
+        "answer": "Ask the parish about access and any guided visits before relying on an interior stop."
+      },
+      "zh": {
+        "question": "可以自行进入地下墓室吗？",
+        "answer": "请先向堂区查询开放方式和导览安排，再决定是否安排入内。"
+      }
+    },
+    "tagline": {
+      "en": "A former Jesuit ensemble on Beogradska",
+      "zh": "贝尔格莱德街上的旧耶稣会建筑群"
+    },
+    "type": {
+      "en": "Catholic church",
+      "zh": "天主教堂"
+    },
+    "feature": {
+      "en": "The church is a stop on the lower streets, before the climb to the clock. From the public pavement, compare the scale of the church door and the adjoining former Jesuit buildings.",
+      "zh": "教堂在上山前的下城街道上。从公共人行道可比较教堂门廊与相邻旧耶稣会建筑的尺度。"
+    }
+  },
+  "st-paul": {
+    "start": "lower-town",
+    "end": "st-george-petrovaradin",
+    "background": {
+      "en": "This Orthodox church adds another layer to the religious history of the Lower Town. Compare its painted exterior and roof silhouette with the Catholic complex on Beogradska.",
+      "zh": "这座东正教堂为下城保留了另一段宗教历史。可将它的彩绘外墙和屋顶轮廓与贝尔格莱德街上的天主教建筑群对照。"
+    },
+    "photoTip": {
+      "en": "Look for an oblique view from the public pavement on Vladimira Nazora.",
+      "zh": "在弗拉迪米拉·纳佐拉街的人行道上斜向取景。"
+    },
+    "faq": {
+      "en": {
+        "question": "How do I find the correct church?",
+        "answer": "Use the St Paul the Apostle listing on Vladimira Nazora. The Catholic church nearby is on Beogradska."
+      },
+      "zh": {
+        "question": "如何认准这座教堂？",
+        "answer": "请认准弗拉迪米拉·纳佐拉街上的圣保禄宗徒教堂，附近的天主教堂位于贝尔格莱德街。"
+      }
+    },
+    "tagline": {
+      "en": "Painted façades in the Lower Town",
+      "zh": "下城街巷里的彩绘立面"
+    },
+    "type": {
+      "en": "Orthodox church",
+      "zh": "东正教堂"
+    },
+    "feature": {
+      "en": "The church is easiest to pick out by looking up from Vladimira Nazora. Note the silhouette of the roof above the painted street front.",
+      "zh": "从弗拉迪米拉·纳佐拉街抬头最容易认出教堂。留意彩绘立面上方的屋顶轮廓。"
+    }
+  },
+  "underground-galleries": {
+    "start": "fortress",
+    "end": "fortress-terrace",
+    "background": {
+      "en": "The subterranean system supported movement and defence beneath the ramparts. On a guided visit, look for changes in corridor width and ask what the openings and side chambers were used for.",
+      "zh": "地下系统服务于城墙下的通行与防御。跟团时留意通道宽度的变化，并向导游询问孔洞和侧室的用途。"
+    },
+    "photoTip": {
+      "en": "Ask the guide about photography. If it is permitted, photograph the succession of arches without blocking the group.",
+      "zh": "先向导游询问拍摄规定。如获允许，可从队伍停留处拍摄连续拱顶，保持通道畅通。"
+    },
+    "faq": {
+      "en": {
+        "question": "Can I enter the tunnels independently?",
+        "answer": "Arrange a guided visit through the City Museum and use the meeting point it confirms."
+      },
+      "zh": {
+        "question": "可以自行进入地下通道吗？",
+        "answer": "请通过城市博物馆安排导览，并前往馆方确认的集合点。"
+      }
+    },
+    "tagline": {
+      "en": "A guided look beneath the ramparts",
+      "zh": "随导览走到城墙下方"
+    },
+    "type": {
+      "en": "Guided heritage tour",
+      "zh": "遗产导览"
+    },
+    "feature": {
+      "en": "This visit focuses on the surviving passage network. Ask the guide how side chambers and narrow connecting corridors worked within the defensive system.",
+      "zh": "这趟参观的重点是保存下来的地下通道。可请导游解释侧室和狭窄连接通道在防御系统中的用途。"
+    }
+  },
+  "fortress-terrace": {
+    "start": "fortress",
+    "end": "lower-town",
+    "background": {
+      "en": "The terrace beside the former Officers’ Pavilion illustrates the relationship between the Upper Town and the river crossing. Looking across the water reveals how the old centre sits behind the riverbank.",
+      "zh": "原军官馆旁的露台体现了上城与渡河通道的关系。隔河俯瞰，可辨认老城如何在西岸河堤后展开。"
+    },
+    "photoTip": {
+      "en": "Frame the river bend from the public parapet, then shift along the terrace to separate the bridge from the skyline.",
+      "zh": "在公共护墙旁拍河湾，再沿露台移动，让桥梁和城市天际线在画面中错开。"
+    },
+    "faq": {
+      "en": {
+        "question": "Do I need a restaurant booking to see the view?",
+        "answer": "Use the signed public terrace. Tables and indoor areas are handled by the individual businesses."
+      },
+      "zh": {
+        "question": "看景需要预订餐厅吗？",
+        "answer": "可沿指示牌前往公共露台。餐桌和室内区域由各商家安排。"
+      }
+    },
+    "tagline": {
+      "en": "The river and old town from the Upper Town",
+      "zh": "从要塞上城俯瞰河湾与老城"
+    },
+    "type": {
+      "en": "Scenic viewpoint",
+      "zh": "观景露台"
+    },
+    "feature": {
+      "en": "Look west across the Danube for the city skyline. A small change in position along the parapet changes how the bridge lines up with the old town.",
+      "zh": "向西隔着多瑙河可看见城市天际线。沿护墙挪几步，桥梁与老城在画面中的重叠关系就会改变。"
+    }
+  },
+  "freedom-square": {
+    "start": "city-hall",
+    "end": "name-of-mary",
+    "background": {
+      "en": "The square brings together civic, religious and commemorative architecture. The town hall and church face one another across an open pedestrian area with the Miletić statue between them.",
+      "zh": "这座广场汇聚市政、宗教与纪念建筑。市政厅和教堂隔着步行广场相望，米莱蒂奇雕像位于两者之间。"
+    },
+    "photoTip": {
+      "en": "Take a wide shot from the edge of the square where the statue and both façades can fit within the frame.",
+      "zh": "在广场边缘尝试广角构图，将雕像和两侧建筑纳入同一画面。"
+    },
+    "faq": {
+      "en": {
+        "question": "Where is a clear meeting point?",
+        "answer": "Use the Miletić monument in the centre of the square as the landmark."
+      },
+      "zh": {
+        "question": "在哪里会合最容易找到对方？",
+        "answer": "可约在广场中央的米莱蒂奇纪念像旁。"
+      }
+    },
+    "tagline": {
+      "en": "The civic heart of Novi Sad",
+      "zh": "诺维萨德的市政广场"
+    },
+    "type": {
+      "en": "Public square",
+      "zh": "公共广场"
+    },
+    "feature": {
+      "en": "The statue gives the square a natural starting point. City Hall and the church are best viewed from opposite sides of the same open space.",
+      "zh": "纪念像适合作为看广场的起点。欣赏市政厅和教堂时，可分别走到广场的两侧取景。"
+    }
+  },
+  "city-hall": {
+    "start": "freedom-square",
+    "end": "miletic-monument",
+    "background": {
+      "en": "The formal symmetry, central tower and sculpted figures give this civic building its Neo-Renaissance character. Study the middle section first, then compare the upper and lower windows.",
+      "zh": "对称构图、中央塔楼和人物雕塑体现了新文艺复兴风格。先看中央部分，再对照上下层窗户。"
+    },
+    "photoTip": {
+      "en": "Stand by the square’s monument for a straight-on view, then move sideways to show the depth of the frontage.",
+      "zh": "在广场纪念像附近正面取景，再横向移动，拍出立面的纵深。"
+    },
+    "faq": {
+      "en": {
+        "question": "Can I go up the tower?",
+        "answer": "Plan on seeing the building from the square. Check with the city for any scheduled public access."
+      },
+      "zh": {
+        "question": "可以登上市政厅塔楼吗？",
+        "answer": "建议从广场看外观。如想入内，请向市政府查询是否有对外开放安排。"
+      }
+    },
+    "tagline": {
+      "en": "Neo-Renaissance architecture on Freedom Square",
+      "zh": "自由广场上的新文艺复兴建筑"
+    },
+    "type": {
+      "en": "Municipal building",
+      "zh": "市政建筑"
+    },
+    "feature": {
+      "en": "First take in the full frontage, then look for the decorative figures above street level. The square leaves room to step back without crossing a roadway.",
+      "zh": "先看完整立面，再抬头找临街上方的人物雕塑。广场空间足够后退观察，无需横过车道。"
+    }
+  },
+  "name-of-mary": {
+    "start": "freedom-square",
+    "end": "zmaj-jovina",
+    "background": {
+      "en": "The pointed openings, high spire and patterned roof mark the church as Neo-Gothic. The side square gives a better view of the roof pitch than the space directly under the main entrance.",
+      "zh": "尖拱、高塔尖和彩瓦屋顶展现新哥特式特色。从侧面小广场观察屋顶坡度，比站在正门下方更清楚。"
+    },
+    "photoTip": {
+      "en": "Use Katolička porta for an upward view of the patterned tiles and spire.",
+      "zh": "在教堂侧面的 Katolička porta 向上取景，将彩瓦和尖塔一起拍入。"
+    },
+    "faq": {
+      "en": {
+        "question": "Why do some maps call it the cathedral?",
+        "answer": "Local informal usage can be misleading. Search for Crkva imena Marijinog to find the Catholic church at Freedom Square."
+      },
+      "zh": {
+        "question": "为什么有的地图把它称为大教堂？",
+        "answer": "当地俗称容易混淆。导航时搜索 Crkva imena Marijinog，可找到自由广场旁的天主教堂。"
+      }
+    },
+    "tagline": {
+      "en": "A Neo-Gothic spire above the old town",
+      "zh": "老城天际线上的新哥特式尖塔"
+    },
+    "type": {
+      "en": "Catholic church",
+      "zh": "天主教堂"
+    },
+    "feature": {
+      "en": "The front faces Freedom Square, while the side square reveals more of the tiled roof. Walk around the exterior to compare those two views.",
+      "zh": "正面朝自由广场，侧面小广场能看见更多彩瓦屋顶。绕外观走一段可比较这两个视角。"
+    }
+  },
+  "miletic-monument": {
+    "start": "freedom-square",
+    "end": "city-hall",
+    "background": {
+      "en": "This public monument turns an important figure in local civic history into the focal point of the square. Walk around the plinth to see how the figure reads against different buildings.",
+      "zh": "这座公共纪念像将一位市政史人物置于广场中心。绕基座走一圈，可观察雕像如何与不同建筑背景呼应。"
+    },
+    "photoTip": {
+      "en": "Photograph from the church side with City Hall behind the figure, then reverse the angle to include the spire.",
+      "zh": "从教堂一侧以市政厅为背景拍雕像，再换到另一侧，把尖塔纳入画面。"
+    },
+    "faq": {
+      "en": {
+        "question": "Can I combine it with the church and city hall?",
+        "answer": "Yes. All three landmarks face the same square and are a short walk apart."
+      },
+      "zh": {
+        "question": "可以把雕像、市政厅和教堂一起游览吗？",
+        "answer": "可以。三处地标都在同一个广场，相互之间步行很近。"
+      }
+    },
+    "tagline": {
+      "en": "A bronze landmark between City Hall and the church",
+      "zh": "市政厅与教堂之间的铜像"
+    },
+    "type": {
+      "en": "Public monument",
+      "zh": "公共纪念像"
+    },
+    "feature": {
+      "en": "The bronze figure and its plinth sit between two very different façades. A short circuit shows why the monument works as a landmark from either end of the square.",
+      "zh": "铜像与基座立在两座风格差异明显的建筑之间。绕一圈便可看出，为什么从广场两端都能用它辨认方向。"
+    }
+  },
+  "zmaj-jovina": {
+    "start": "freedom-square",
+    "end": "dunavska",
+    "background": {
+      "en": "The pedestrian street retains the old centre’s shopfront rhythm. The bay widths and upper windows above modern signs are the easiest clues to its earlier building fabric.",
+      "zh": "这条步行街保留了老城临街店铺的节奏。现代招牌上方的开间和楼窗，是辨认旧有建筑格局的线索。"
+    },
+    "photoTip": {
+      "en": "From a public side lane, angle toward the Bishop’s Palace end and include the facing rows of buildings.",
+      "zh": "站在公共侧巷入口朝主教宫方向斜拍，带入街道两侧建筑。"
+    },
+    "faq": {
+      "en": {
+        "question": "Which end is closest to Dunavska?",
+        "answer": "Use the Bishop’s Palace end of Zmaj Jovina for the turn onto Dunavska."
+      },
+      "zh": {
+        "question": "哪一端靠近多瑙街？",
+        "answer": "走到兹迈约维纳街靠主教宫的一端，即可转入多瑙街。"
+      }
+    },
+    "tagline": {
+      "en": "The pedestrian spine of the old town",
+      "zh": "贯穿老城的主要步行街"
+    },
+    "type": {
+      "en": "Historic pedestrian street",
+      "zh": "历史步行街"
+    },
+    "feature": {
+      "en": "Look above the shop signs for window surrounds and repeated bays. The palace at the far end acts as the visual endpoint of the walk.",
+      "zh": "抬头越过商铺招牌，可观察窗套和反复出现的开间。远端的主教宫构成步行轴线的视觉终点。"
+    }
+  },
+  "dunavska": {
+    "start": "zmaj-jovina",
+    "end": "danube-park",
+    "background": {
+      "en": "Dunavska links the historic core to the green space at the river end. Its low street fronts offer a closer look at the scale of the older commercial town.",
+      "zh": "多瑙街把历史街区与河岸一侧的绿地连起来。低矮的临街立面保留了旧商业街的尺度。"
+    },
+    "photoTip": {
+      "en": "Take an oblique street view near the park end, where the enclosed street opens out.",
+      "zh": "在靠近公园的一端斜拍，取景重点是街道从紧凑转向开阔的位置。"
+    },
+    "faq": {
+      "en": {
+        "question": "Which way should I walk for the museums?",
+        "answer": "Head toward Danube Park and continue toward the museum entrances on Dunavska."
+      },
+      "zh": {
+        "question": "要去博物馆该往哪边走？",
+        "answer": "朝多瑙河公园方向走，再沿多瑙街寻找博物馆入口。"
+      }
+    },
+    "tagline": {
+      "en": "A historic street leading to the riverside museums",
+      "zh": "通往河畔博物馆的历史街道"
+    },
+    "type": {
+      "en": "Historic street",
+      "zh": "历史街道"
+    },
+    "feature": {
+      "en": "Walk from the enclosed older street toward its more open park end. Museum entrances further along Dunavska make this a useful part of a rainy-day route.",
+      "zh": "从较紧凑的老街走向公园一端，街景逐渐开阔。多瑙街后段还有博物馆入口，遇雨也便于调整行程。"
+    }
+  },
+  "danube-park": {
+    "start": "dunavska",
+    "end": "museum-vojvodina",
+    "background": {
+      "en": "Paths, mature trees and the pond give the park its shape. A circuit of the water reveals a quieter layer of the centre behind the busy museum street.",
+      "zh": "步道、老树和池塘构成公园的格局。沿水走一圈，可以看到博物馆街背后较安静的一面。"
+    },
+    "photoTip": {
+      "en": "Use the wider pond path for reflections and leave the lakeside path clear for others.",
+      "zh": "在池塘旁较宽的步道拍倒影，为其他行人留出通道。"
+    },
+    "faq": {
+      "en": {
+        "question": "Is the park a good stop between museums and the river?",
+        "answer": "Yes. Enter near Dunavska for the pond, then continue toward the riverside via the boulevard."
+      },
+      "zh": {
+        "question": "从博物馆去河边，适合顺路进公园吗？",
+        "answer": "适合。从多瑙街一侧入园看池塘，再经大道方向前往河边。"
+      }
+    },
+    "tagline": {
+      "en": "Pond paths beside the museum quarter",
+      "zh": "博物馆街区旁的池塘步道"
+    },
+    "type": {
+      "en": "Urban park",
+      "zh": "城市公园"
+    },
+    "feature": {
+      "en": "Circle the pond before crossing to the museum street. The trees screen part of the surrounding traffic and make the path a useful short rest stop.",
+      "zh": "可先绕池塘走一圈，再去博物馆街。树木遮挡部分周边车流，适合短暂停留。"
+    }
+  },
+  "serbian-national-theatre": {
+    "start": "uspenska-church",
+    "end": "synagogue",
+    "background": {
+      "en": "The institution dates to 1861, while the prominent building on Theatre Square presents a later modern architectural language. Compare its broad planes with the church tower nearby.",
+      "zh": "剧院机构创立于1861年，剧院广场上的现馆采用较晚近的现代建筑语言。可把宽大的立面与附近教堂塔楼对照。"
+    },
+    "photoTip": {
+      "en": "Use the far side of Theatre Square for a wide view of the entrance and plaza.",
+      "zh": "在剧院广场另一侧拍摄入口与广场全景。"
+    },
+    "faq": {
+      "en": {
+        "question": "How do I plan an evening performance?",
+        "answer": "Check the theatre’s current programme for the performance language, venue and ticket arrangements."
+      },
+      "zh": {
+        "question": "想看晚场演出应该查什么？",
+        "answer": "查看剧院最新节目单，确认演出语言、场地及购票方式。"
+      }
+    },
+    "tagline": {
+      "en": "Drama, opera and ballet on Theatre Square",
+      "zh": "剧院广场上的话剧、歌剧与芭蕾"
+    },
+    "type": {
+      "en": "Performing arts venue",
+      "zh": "演出场馆"
+    },
+    "feature": {
+      "en": "The theatre and the older church both face the wider square. For an indoor visit, choose a production first and check its specific auditorium on the ticket.",
+      "zh": "剧院和旁边的老教堂同在开阔广场周围。若要看演出，先选定节目，再按票面核对演出厅。"
+    }
+  },
+  "synagogue": {
+    "start": "serbian-national-theatre",
+    "end": "uspenska-church",
+    "background": {
+      "en": "The central sanctuary and its flanking community buildings form a single composition on Jevrejska. Look for the contrast between the ornament at the entrance and the symmetry of the larger complex.",
+      "zh": "犹太会堂主体与两侧社群建筑在犹太街形成统一构图。可同时观察入口的装饰与建筑群整体的对称关系。"
+    },
+    "photoTip": {
+      "en": "Stand on the opposite public pavement for a frontal composition that includes both wings.",
+      "zh": "在街对面公共人行道正面取景，将两侧建筑一起拍入。"
+    },
+    "faq": {
+      "en": {
+        "question": "How can I see the interior?",
+        "answer": "Check scheduled events or concerts, since access arrangements depend on the programme."
+      },
+      "zh": {
+        "question": "怎样参观会堂内部？",
+        "answer": "可查看活动或音乐会安排，入内方式随活动而变化。"
+      }
+    },
+    "tagline": {
+      "en": "A synagogue and its historic community buildings",
+      "zh": "犹太会堂与历史社群建筑"
+    },
+    "type": {
+      "en": "Synagogue and event venue",
+      "zh": "犹太会堂与活动场地"
+    },
+    "feature": {
+      "en": "Stand across Jevrejska to read the complex as a whole. The lower wings help explain how the sanctuary was part of a larger community site.",
+      "zh": "到犹太街对面看整组建筑。两侧较低的建筑说明，会堂主体当年属于更大的社群场所。"
+    }
+  },
+  "matica-srpska": {
+    "start": "nikolajevska-church",
+    "end": "st-george-cathedral",
+    "background": {
+      "en": "Matica Srpska moved to Novi Sad in 1864. Its headquarters bring the city’s literary and scholarly history into an area better known for its churches.",
+      "zh": "塞尔维亚文艺学会于1864年迁至诺维萨德。总部坐落在教堂集中的街区，为这片地方补充了一段文学与学术史。"
+    },
+    "photoTip": {
+      "en": "Use a diagonal view from the public corner to include the full frontage and its upper windows.",
+      "zh": "从公共街角斜拍，把完整立面和楼上窗户纳入画面。"
+    },
+    "faq": {
+      "en": {
+        "question": "Is this the same stop as the Gallery of Matica Srpska?",
+        "answer": "They have separate locations. Use Matice srpske 1 for the headquarters."
+      },
+      "zh": {
+        "question": "文艺学会总部和文艺学会美术馆是同一个地点吗？",
+        "answer": "两处地点不同。前往学会总部请使用 Matice srpske 1。"
+      }
+    },
+    "tagline": {
+      "en": "The headquarters of a literary and scholarly society",
+      "zh": "文学与学术机构的历史总部"
+    },
+    "type": {
+      "en": "Cultural institution",
+      "zh": "文化机构"
+    },
+    "feature": {
+      "en": "The headquarters are a useful stop in the church district north of the main pedestrian street. The separate art gallery has its own address on Trg galerija.",
+      "zh": "总部适合与主步行街北侧的教堂一起游览。另设的文艺学会美术馆位于画廊广场，有独立地址。"
+    }
+  },
+  "st-george-cathedral": {
+    "start": "zmaj-jovina",
+    "end": "matica-srpska",
+    "background": {
+      "en": "The cathedral and neighbouring Bishop’s Palace mark the northern end of the central pedestrian street. Inside, when open, the iconostasis is the main element to look for.",
+      "zh": "座堂与相邻的主教宫标示中央步行街的北端。若开放入内，可重点观察圣像屏。"
+    },
+    "photoTip": {
+      "en": "Use the public approach from Zmaj Jovina for a view of the buildings together. Ask before photographing inside.",
+      "zh": "从兹迈约维纳街的公共通道拍两座建筑同框。室内拍摄请先询问。"
+    },
+    "faq": {
+      "en": {
+        "question": "Which St George’s is this?",
+        "answer": "This is the Orthodox cathedral on the Novi Sad bank. The Catholic church of the same dedication is in Petrovaradin."
+      },
+      "zh": {
+        "question": "这是哪一座圣乔治教堂？",
+        "answer": "这里是诺维萨德市区一侧的东正教座堂。供奉同名圣人的天主教堂位于彼得罗瓦拉丁。"
+      }
+    },
+    "tagline": {
+      "en": "The Orthodox cathedral next to the Bishop’s Palace",
+      "zh": "主教宫旁的东正教座堂"
+    },
+    "type": {
+      "en": "Orthodox cathedral",
+      "zh": "东正教座堂"
+    },
+    "feature": {
+      "en": "Follow the pedestrian street to the palace end before entering the cathedral area. If permitted inside, give the iconostasis time and keep the aisle clear.",
+      "zh": "从步行街走到主教宫一端，再进入座堂所在区域。若允许入内，可慢看圣像屏，并保持通道畅通。"
+    }
+  },
+  "almaska-church": {
+    "start": "matica-srpska",
+    "end": "nikolajevska-church",
+    "background": {
+      "en": "The Church of the Three Holy Hierarchs anchors the historic Almaški quarter. Its tower is especially striking against the scale of the surrounding residential streets.",
+      "zh": "三圣主教堂是阿尔马什卡历史街区的地标。钟楼与周边低矮的住宅街巷形成明显对比。"
+    },
+    "photoTip": {
+      "en": "Approach along Almaška and pause at a public junction where the tower clears the roofline.",
+      "zh": "沿阿尔马什卡街步行，在钟楼高出民居屋顶的公共路口取景。"
+    },
+    "faq": {
+      "en": {
+        "question": "What else can I see in this neighbourhood?",
+        "answer": "Walk through the residential lanes of Almaški Kraj toward Matica Srpska’s headquarters."
+      },
+      "zh": {
+        "question": "这个街区还有什么值得看？",
+        "answer": "可以沿阿尔马什卡老街区的住宅巷道走到塞尔维亚文艺学会总部。"
+      }
+    },
+    "tagline": {
+      "en": "The tower above the Almaški lanes",
+      "zh": "高出阿尔马什卡巷道的塔楼"
+    },
+    "type": {
+      "en": "Orthodox church",
+      "zh": "东正教堂"
+    },
+    "feature": {
+      "en": "Take the residential approach so the tower appears above the houses before the whole building comes into view.",
+      "zh": "建议沿住宅街道接近，先看塔楼越过屋顶显现，再看完整教堂。"
+    }
+  },
+  "uspenska-church": {
+    "start": "serbian-national-theatre",
+    "end": "synagogue",
+    "background": {
+      "en": "The church’s Baroque forms survive beside the modern theatre. Its vertical tower and compact footprint make the different phases of the square easy to compare.",
+      "zh": "这座巴洛克教堂与现代剧院毗邻。塔楼的垂直线条和紧凑体量，使广场的不同建设年代一目了然。"
+    },
+    "photoTip": {
+      "en": "Look back from Theatre Square to keep the tower and some of the contemporary surroundings in frame.",
+      "zh": "从剧院广场回望，让塔楼与周围现代建筑同时入镜。"
+    },
+    "faq": {
+      "en": {
+        "question": "Can I fit it into a short theatre-square visit?",
+        "answer": "Yes. The church is beside Theatre Square, so its exterior is easy to pair with the theatre frontage."
+      },
+      "zh": {
+        "question": "只在剧院广场短暂停留，能看这座教堂吗？",
+        "answer": "可以。教堂就在剧院广场旁，外观适合与剧院立面一起游览。"
+      }
+    },
+    "tagline": {
+      "en": "A Baroque church next to the modern theatre",
+      "zh": "现代剧院旁的巴洛克教堂"
+    },
+    "type": {
+      "en": "Orthodox church",
+      "zh": "东正教堂"
+    },
+    "feature": {
+      "en": "See the church and the theatre from one public square. The difference in scale is clearest when both buildings are in view.",
+      "zh": "在同一个公共广场即可看到教堂与剧院。两座建筑同时入眼时，最能看出尺度差异。"
+    }
+  },
+  "nikolajevska-church": {
+    "start": "matica-srpska",
+    "end": "st-george-cathedral",
+    "background": {
+      "en": "One of the old centre’s earliest Orthodox churches, Nikolajevska remains small in scale. Its simple massing reads particularly well next to the larger institutions on nearby streets.",
+      "zh": "圣尼古拉教堂是老城较早的东正教堂之一，体量至今相当小巧。与附近的大型机构建筑相对照，更能看出它简洁的轮廓。"
+    },
+    "photoTip": {
+      "en": "Use the wider public section near Matica Srpska for an angled view of the tower and roof.",
+      "zh": "在文艺学会附近较宽的公共路段斜拍钟楼与屋顶。"
+    },
+    "faq": {
+      "en": {
+        "question": "Which nearby church is larger?",
+        "answer": "Follow Nikole Pašića toward the larger St George’s Cathedral to compare the two buildings."
+      },
+      "zh": {
+        "question": "附近哪座教堂规模更大？",
+        "answer": "沿尼科拉·帕西奇街走到规模更大的圣乔治座堂，可对比两处建筑。"
+      }
+    },
+    "tagline": {
+      "en": "A small early church near Matica Srpska",
+      "zh": "塞尔维亚文艺学会附近的早期教堂"
+    },
+    "type": {
+      "en": "Orthodox church",
+      "zh": "东正教堂"
+    },
+    "feature": {
+      "en": "Visit on foot between Matica Srpska and the cathedral. The smaller church is best read at street level, with its tower framed by nearby buildings.",
+      "zh": "可从塞尔维亚文艺学会步行去座堂，顺路看这座小教堂。从街面观察，两侧建筑会自然框住塔楼。"
+    }
+  },
+  "banovina": {
+    "start": "danube-park",
+    "end": "museum-vojvodina",
+    "background": {
+      "en": "Dragiša Brašovan designed the Banovina as a government complex between the wars. Watch how the long frontage turns a corner in a single sweeping curve.",
+      "zh": "德拉吉沙·布拉绍万在两战之间设计了这座行政建筑。留意长立面如何以一道连贯的弧线转过街角。"
+    },
+    "photoTip": {
+      "en": "Use the opposite boulevard pavement for the long elevation and rounded end in the same shot.",
+      "zh": "站在大道对侧人行道，把长立面和圆弧端部同时纳入画面。"
+    },
+    "faq": {
+      "en": {
+        "question": "Is this a museum visit?",
+        "answer": "Banovina is a government complex. Plan to see the exterior and check separately for any public event."
+      },
+      "zh": {
+        "question": "这里有博物馆展览可以参观吗？",
+        "answer": "巴诺维纳宫是行政建筑。建议以外观为主，如有公开活动请另行查询。"
+      }
+    },
+    "tagline": {
+      "en": "A sweeping interwar façade on the boulevard",
+      "zh": "大道上两战之间兴建的弧形立面"
+    },
+    "type": {
+      "en": "Government complex",
+      "zh": "行政建筑群"
+    },
+    "feature": {
+      "en": "Follow the public pavement around the curve to see how the long building changes direction. The broad elevation is easiest to appreciate from across the boulevard.",
+      "zh": "沿公共人行道走过弧形转角，可看出长立面怎样改变方向。到大道对面更容易看清建筑全貌。"
+    }
+  },
+  "museum-vojvodina": {
+    "start": "dunavska",
+    "end": "danube-park",
+    "background": {
+      "en": "The museum’s archaeological displays put the Danube region in a larger historical setting. Outdoors, the long Dunavska front also helps distinguish this museum complex from the nearer city-centre galleries.",
+      "zh": "馆内考古展览把多瑙河地区放入更广的历史脉络。室外的多瑙街长立面也便于辨认这座馆群，避免与市中心其他展馆混淆。"
+    },
+    "photoTip": {
+      "en": "Photograph the entrance from the street, then verify gallery photography rules at reception.",
+      "zh": "先从街上拍摄入口，进馆后再向接待处确认展厅拍摄规定。"
+    },
+    "faq": {
+      "en": {
+        "question": "Where should I go to see the Roman helmets?",
+        "answer": "Check the museum’s current exhibition information and which entrance on Dunavska to use."
+      },
+      "zh": {
+        "question": "想看罗马头盔应去哪里？",
+        "answer": "请查看馆方最新展览资料，并确认走多瑙街上的哪一个入口。"
+      }
+    },
+    "tagline": {
+      "en": "Archaeology and regional history on Dunavska",
+      "zh": "多瑙街上的考古与地方史"
+    },
+    "type": {
+      "en": "Regional museum",
+      "zh": "地区博物馆"
+    },
+    "feature": {
+      "en": "The Roman helmets are a good focus for a shorter visit. Check the building and current display before choosing an entrance.",
+      "zh": "如果参观时间较短，可以罗马头盔为重点。先确认当前展出情况和所在建筑，再选择入口。"
+    }
+  },
+  "pavle-beljanski": {
+    "start": "rajko-mamuzic",
+    "end": "banovina",
+    "background": {
+      "en": "A diplomat’s collection became a public institution devoted to modern art. Compare subjects and brushwork between artists rather than rushing straight through the rooms.",
+      "zh": "一位外交官的收藏发展为公共现代艺术机构。展厅内可选几幅作品，对照不同艺术家的题材与笔触。"
+    },
+    "photoTip": {
+      "en": "Photograph the frontage from Trg galerija and ask at the desk about individual works indoors.",
+      "zh": "从画廊广场拍摄外观，展品是否允许拍摄可到服务台询问。"
+    },
+    "faq": {
+      "en": {
+        "question": "Can I visit two galleries in one afternoon?",
+        "answer": "The Rajko Mamuzić Gallery is nearby. Confirm the two venues’ hours separately before setting out."
+      },
+      "zh": {
+        "question": "可以一个下午连看两座美术馆吗？",
+        "answer": "拉伊科·马穆齐奇美术馆就在附近。出发前请分别核对两馆的开放时间。"
+      }
+    },
+    "tagline": {
+      "en": "A diplomat’s collection of modern art",
+      "zh": "外交官留下的现代艺术收藏"
+    },
+    "type": {
+      "en": "Art collection",
+      "zh": "艺术收藏馆"
+    },
+    "feature": {
+      "en": "The small collection rewards a slower look. Pick a few paintings to compare their subjects and technique rather than rushing through every room.",
+      "zh": "馆藏适合慢看，可选几幅作品对照题材与技法，给主要展品留足时间。"
+    }
+  },
+  "rajko-mamuzic": {
+    "start": "pavle-beljanski",
+    "end": "banovina",
+    "background": {
+      "en": "The gift collection follows the development of postwar Yugoslav art. The villa setting gives the visit a more domestic scale than the larger galleries around the square.",
+      "zh": "馆藏梳理战后南斯拉夫艺术的发展。别墅式展馆的尺度较小，与广场周围的大型美术馆形成对照。"
+    },
+    "photoTip": {
+      "en": "Photograph the villa front from the public pavement on Vase Stajića.",
+      "zh": "在瓦塞·斯塔伊奇街的人行道拍摄别墅正面。"
+    },
+    "faq": {
+      "en": {
+        "question": "Is the entrance on the gallery square?",
+        "answer": "Use Vase Stajića 1 for this gallery. It has a separate entrance from the collections on Trg galerija."
+      },
+      "zh": {
+        "question": "入口在画廊广场上吗？",
+        "answer": "请使用 Vase Stajića 1。这家美术馆的入口与画廊广场上的展馆分开。"
+      }
+    },
+    "tagline": {
+      "en": "Postwar Yugoslav art in a villa setting",
+      "zh": "别墅展馆里的战后南斯拉夫艺术"
+    },
+    "type": {
+      "en": "Art gallery",
+      "zh": "美术馆"
+    },
+    "feature": {
+      "en": "The villa rooms keep the art visit on a domestic scale. Pair it with the Beljanski collection to compare two different approaches to collecting.",
+      "zh": "别墅房间保留了居住空间的尺度。可与贝利安斯基纪念收藏馆串联，对照两种收藏思路。"
+    }
+  },
+  "quay": {
+    "start": "danube-park",
+    "end": "raid-memorial",
+    "background": {
+      "en": "From this low riverbank, the fortress reads as a continuous line above the water. The promenade offers a different sense of how the historic town and the crossing fit together.",
+      "zh": "从低处河岸望去，要塞在水面上方展开成一条连续轮廓。沿步道走，可从另一角度理解老城与跨河通道的关系。"
+    },
+    "photoTip": {
+      "en": "Use a widened riverside section to frame the bluff across the Danube, away from the cycling line.",
+      "zh": "在较宽的滨河步道取景，隔河拍要塞崖壁，同时避开自行车道。"
+    },
+    "faq": {
+      "en": {
+        "question": "Which riverbank should I choose?",
+        "answer": "Use the Novi Sad bank for Beogradski kej and the view toward the fortress across the river."
+      },
+      "zh": {
+        "question": "应该去哪一侧河岸？",
+        "answer": "贝尔格莱德河滨步道在诺维萨德市区一侧，从这里隔河看要塞。"
+      }
+    },
+    "tagline": {
+      "en": "A riverbank walk facing Petrovaradin",
+      "zh": "面向彼得罗瓦拉丁的河岸散步路线"
+    },
+    "type": {
+      "en": "Riverside promenade",
+      "zh": "河滨步道"
+    },
+    "feature": {
+      "en": "This quay is on the city bank, with the fortress across the water. The riverside path makes it easy to continue toward Varadin Bridge.",
+      "zh": "步道位于市区一侧，正对河对岸的要塞。沿水岸步道可继续走到瓦拉丁桥。"
+    }
+  },
+  "raid-memorial": {
+    "start": "quay",
+    "end": "strand",
+    "background": {
+      "en": "The family sculpture commemorates the people killed in the January 1942 raid. Take time to read the inscription and observe how the figures are placed in relation to the river.",
+      "zh": "家庭群像纪念1942年1月突袭中的遇难者。建议读一读铭文，再观察雕塑人物面向多瑙河的布置。"
+    },
+    "photoTip": {
+      "en": "Photograph unobtrusively from a public path, keeping clear of visitors paying their respects.",
+      "zh": "从公共步道安静拍摄，为前来悼念的访客留出空间。"
+    },
+    "faq": {
+      "en": {
+        "question": "Where is the memorial in relation to the bridge?",
+        "answer": "It is on the Novi Sad bank south of Varadin Bridge, along Kej žrtava racije."
+      },
+      "zh": {
+        "question": "纪念碑在桥的哪一边？",
+        "answer": "纪念碑位于瓦拉丁桥南边的市区河岸，沿遇难者河滨路可到达。"
+      }
+    },
+    "tagline": {
+      "en": "A place of remembrance on the Danube bank",
+      "zh": "多瑙河畔的纪念场所"
+    },
+    "type": {
+      "en": "Memorial",
+      "zh": "纪念碑"
+    },
+    "feature": {
+      "en": "Take time at the inscription before looking back toward the river. The placement of the family sculpture is part of the memorial experience.",
+      "zh": "可先读铭文，再转向河面看群像。雕塑在河岸上的朝向也是纪念空间的一部分。"
+    }
+  },
+  "strand": {
+    "start": "quay",
+    "end": "liberty-bridge",
+    "background": {
+      "en": "The city beach offers a different perspective on the Danube from the fortress viewpoints. Follow the shoreline to see how the sandy stretch meets the bridge approach.",
+      "zh": "城市河滩提供了与要塞高处截然不同的多瑙河视角。沿岸走一段，可看到沙滩与自由桥引道的衔接。"
+    },
+    "photoTip": {
+      "en": "Use the quay for the shoreline and bridge together. Avoid framing individual bathers without permission.",
+      "zh": "可从河滨路拍沙滩与大桥同框，避免未经同意近拍游泳者。"
+    },
+    "faq": {
+      "en": {
+        "question": "Can I swim throughout the year?",
+        "answer": "Consult seasonal access information and posted bathing conditions at the beach."
+      },
+      "zh": {
+        "question": "全年都能下水吗？",
+        "answer": "请查看河滩的季节性入场安排和现场游泳告示。"
+      }
+    },
+    "tagline": {
+      "en": "Novi Sad’s Danube beach beside Liberty Bridge",
+      "zh": "自由桥旁的诺维萨德多瑙河河滩"
+    },
+    "type": {
+      "en": "Seasonal river beach",
+      "zh": "季节性河滩浴场"
+    },
+    "feature": {
+      "en": "Follow the water’s edge toward the bridge approach. When the beach facilities are closed, the nearby public quay remains a separate viewpoint.",
+      "zh": "沿水边可走向自由桥引道。河滩设施关闭时，附近的公共滨河路仍是另一处观景点。"
+    }
+  },
+  "liberty-bridge": {
+    "start": "strand",
+    "end": "kamenica-park",
+    "background": {
+      "en": "The bridge’s cable-stayed form is most legible when seen from the riverbank. Look for the repeated diagonals of the cables against the horizontal line of the span.",
+      "zh": "从河岸最容易看清桥梁的斜拉结构。留意斜拉索反复出现的斜线，与桥面水平线形成的对照。"
+    },
+    "photoTip": {
+      "en": "Take a wide photo from Štrand or a public path in Kamenica Park, rather than stopping on the roadway.",
+      "zh": "从什特兰德或卡梅尼察公园的公共步道拍全桥，勿在车道停留。"
+    },
+    "faq": {
+      "en": {
+        "question": "Where can I see the cables without going onto the bridge?",
+        "answer": "The Štrand waterfront and public Kamenica paths are viewpoints on opposite banks."
+      },
+      "zh": {
+        "question": "在哪里不用上桥就能看清斜拉索？",
+        "answer": "什特兰德河滩水岸和卡梅尼察公共步道分别是两岸的观赏点。"
+      }
+    },
+    "tagline": {
+      "en": "A cable-stayed crossing between the two riverbanks",
+      "zh": "横跨多瑙河两岸的斜拉桥"
+    },
+    "type": {
+      "en": "Bridge",
+      "zh": "桥梁"
+    },
+    "feature": {
+      "en": "Look at the cables from the riverbank, where their diagonals are visible together. The two shores offer very different foregrounds.",
+      "zh": "从河岸可同时看清成组斜拉索。两侧河岸的前景也各不相同。"
+    }
+  },
+  "kamenica-park": {
+    "start": "liberty-bridge",
+    "end": "zmaj-museum",
+    "background": {
+      "en": "The park preserves the landscape setting of the former estate. Its wooded paths and open lawn clearings are the main features to follow on foot.",
+      "zh": "公园保留了原庄园的景观环境。林间小路与林中的开阔草地是步行游览的重点。"
+    },
+    "photoTip": {
+      "en": "Use the edge of a clearing to photograph the transition from open grass to trees.",
+      "zh": "在林间空地边缘取景，拍出草地向树林过渡的层次。"
+    },
+    "faq": {
+      "en": {
+        "question": "Is the climb back to the village steep?",
+        "answer": "Allow time for the uphill return and choose established paths after wet weather."
+      },
+      "zh": {
+        "question": "从公园回村镇需要上坡吗？",
+        "answer": "回村镇有上坡，请预留时间。雨后建议走已有步道。"
+      }
+    },
+    "tagline": {
+      "en": "Wooded paths and estate lawns across the river",
+      "zh": "河对岸旧庄园的林径与草地"
+    },
+    "type": {
+      "en": "Historic park",
+      "zh": "历史园林"
+    },
+    "feature": {
+      "en": "Follow established paths between the grass and wooded sections. The open clearings are the easiest places to see the park’s landscape layout.",
+      "zh": "沿已有步道穿行于草地与林地之间。林间空地最便于观察公园的景观布局。"
+    }
+  },
+  "zmaj-museum": {
+    "start": "kamenica-park",
+    "end": "liberty-bridge",
+    "background": {
+      "en": "The house connects the poet and physician’s life with the village where he spent his final years. The domestic scale is part of the experience, especially in contrast with Novi Sad’s larger museums.",
+      "zh": "这座故居连接诗人兼医生的生平与他度过晚年的村镇。与诺维萨德的大型博物馆相比，这里保留了居住空间的尺度。"
+    },
+    "photoTip": {
+      "en": "Use the public side of Jovana Jovanovića Zmaja Street for the façade and ask before photographing the displays.",
+      "zh": "在约万·约万诺维奇·兹迈街的公共一侧拍外观，展品拍摄请先询问馆方。"
+    },
+    "faq": {
+      "en": {
+        "question": "Do I need to contact the museum before visiting?",
+        "answer": "Confirm interior access with the City Museum if the memorial collection is the main reason for your trip."
+      },
+      "zh": {
+        "question": "出发前需要联系纪念馆吗？",
+        "answer": "如果专程参观纪念馆，请先向诺维萨德城市博物馆确认入内安排。"
+      }
+    },
+    "tagline": {
+      "en": "The riverside village home of a poet and physician",
+      "zh": "河畔村镇里的诗人兼医生故居"
+    },
+    "type": {
+      "en": "Memorial museum",
+      "zh": "故居纪念馆"
+    },
+    "feature": {
+      "en": "The street approach and the scale of the rooms help connect the collection to a lived-in home. Confirm entry before making a special trip.",
+      "zh": "从临街外观到室内尺度，都可看出展馆曾是居家空间。专程前往前请确认是否开放入内。"
+    }
+  },
+  "kovilj-monastery": {
+    "start": "",
+    "end": "",
+    "background": {
+      "en": "The monastery church and community buildings form a working religious complex on the Danube lowlands. Observe the courtyard only from areas the community opens to visitors.",
+      "zh": "修道院教堂与附属建筑构成多瑙河低地一处仍在使用的宗教场所。只在修道团体开放的区域观察庭院。"
+    },
+    "photoTip": {
+      "en": "If photography is permitted, compose from the public approach or an open edge of the courtyard and respect services.",
+      "zh": "若现场允许拍摄，可从公共入口或开放的庭院边缘取景，并避开礼拜活动。"
+    },
+    "faq": {
+      "en": {
+        "question": "Can I add this to a city-centre walk?",
+        "answer": "Plan a separate trip to Kovilj and allow time for the return journey."
+      },
+      "zh": {
+        "question": "能把修道院排进市中心步行路线吗？",
+        "answer": "请单独安排前往科维尔，并预留返程时间。"
+      }
+    },
+    "tagline": {
+      "en": "A working monastery on the Danube lowlands",
+      "zh": "多瑙河低地仍在使用的修道院"
+    },
+    "type": {
+      "en": "Orthodox monastery",
+      "zh": "东正教修道院"
+    },
+    "feature": {
+      "en": "The church and related buildings still serve the monastery community. Visit the parts that are open and leave space for worshippers.",
+      "zh": "教堂与附属建筑至今服务修道团体。请仅参观开放区域，为礼拜者留出通道。"
+    }
+  }
+}

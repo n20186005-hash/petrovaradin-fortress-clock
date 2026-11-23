@@ -14,12 +14,14 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import Recommendations from '@/components/Recommendations';
+import NearbyHighlights from '@/components/NearbyHighlights';
+import type { Locale } from '@/i18n/routing';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
   params,
 }: {
-  params: Promise<{ locale: string }>;
+  params: Promise<{ locale: Locale }>;
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
@@ -42,6 +44,7 @@ export default async function HomePage({
         <Reviews />
         <MapEmbed />
         <Recommendations />
+        <NearbyHighlights locale={locale} />
       </main>
       <Footer />
     </>

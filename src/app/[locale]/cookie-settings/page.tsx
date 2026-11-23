@@ -1,30 +1,12 @@
 import { setRequestLocale } from 'next-intl/server';
-import type { Metadata } from 'next';
+import type { Locale } from '@/i18n/routing';
+import { localizedPageMetadata } from '@/i18n/metadata';
 import CookieSettingsClient from './CookieSettingsClient';
 
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}): Promise<Metadata> {
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/cookie-settings`;
-  const enUrl = `${baseUrl}/en/cookie-settings`;
-  const frUrl = `${baseUrl}/fr/cookie-settings`;
-  const zhUrl = `${baseUrl}/zh-Hant/cookie-settings`;
-
-  return {
-    alternates: {
-      canonical: itUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
-    },
-  };
+export async function generateMetadata({ params }: { params: Promise<{ locale: Locale }> }) {
+  const { locale } = await params;
+  const messages = (await import(`@/messages/${locale}.json`)).default;
+  return localizedPageMetadata(locale, '/cookie-settings', messages.cookieSettings.title);
 }
 
 export default async function CookiePage({

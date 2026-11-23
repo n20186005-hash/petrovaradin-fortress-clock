@@ -1,8 +1,9 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 
 export default function PetrovaradinMapEmbed() {
+  const locale = useLocale();
   const t = useTranslations('mapSection');
 
   return (
@@ -30,7 +31,7 @@ export default function PetrovaradinMapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Petrovaradin Fortress Clock"
+            title={locale === 'zh' ? '彼得罗瓦拉丁要塞钟楼地图' : 'Map of Petrovaradin Fortress Clock'}
           />
         </div>
 

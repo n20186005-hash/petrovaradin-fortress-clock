@@ -1,6 +1,7 @@
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 
 export default function MapEmbed() {
+  const locale = useLocale();
   const t = useTranslations('mapSection');
 
   return (
@@ -32,7 +33,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Tourist Attraction"
+            title={locale === 'zh' ? '彼得罗瓦拉丁要塞钟楼地图' : 'Map of Petrovaradin Fortress Clock'}
           />
         </div>
 

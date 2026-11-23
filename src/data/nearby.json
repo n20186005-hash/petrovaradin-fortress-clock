@@ -1,0 +1,789 @@
+[
+  {
+    "slug": "fortress",
+    "name": {
+      "en": "Petrovaradin Fortress",
+      "zh": "彼得罗瓦拉丁要塞"
+    },
+    "localName": "Petrovaradinska tvrđava",
+    "address": "Beogradska, Petrovaradin",
+    "area": "f",
+    "operator": "public",
+    "photo": "NoviSad-fortress_over_Danube.jpg",
+    "description": {
+      "en": "The Habsburg-era earthworks and masonry were built in stages from 1692 to 1780. Follow the public ramp up from the Lower Town and compare the angled bastions with the river-facing terrace.",
+      "zh": "哈布斯堡时期的土垒和砖石工事于1692至1780年间分期修建。从下城沿公共坡道上行，比较突出城墙的棱堡与沿河露台。"
+    },
+    "visitTip": {
+      "en": "Begin below the walls if you want to understand the fort’s changes in level. At the top, the clock and City Museum make useful stops before the return descent.",
+      "zh": "若想看清要塞的高差，可从城墙下开始。登上上城后，先看钟楼，再到城市博物馆，最后下坡返回。"
+    },
+    "credit": {
+      "author": "Konrad Zieliński",
+      "license": "CC BY-SA 1.0",
+      "url": "https://creativecommons.org/licenses/by-sa/1.0"
+    }
+  },
+  {
+    "slug": "lower-town",
+    "name": {
+      "en": "Petrovaradin Lower Town",
+      "zh": "彼得罗瓦拉丁下城"
+    },
+    "localName": "Podgrađe Petrovaradinske tvrđave",
+    "address": "Beogradska, Petrovaradin",
+    "area": "f",
+    "operator": "public",
+    "photo": "Podgrađe_Petrovaradinske_tvrđave.JPG",
+    "description": {
+      "en": "Below the ramparts, narrow streets link the former military quarter and its Baroque façades. Start at Beogradska, pause at St George’s, and keep the hill climb for the end.",
+      "zh": "城墙下的窄巷串起昔日军营街区和巴洛克建筑。从贝尔格莱德街开始，经过圣乔治教堂，最后再上坡去钟楼。"
+    },
+    "credit": {
+      "author": "Micki",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "visitTip": {
+      "en": "The district is residential. Use street corners for photos, and keep private doors and courtyards clear.",
+      "zh": "下城仍有居民生活。建议在街角取景，避让住宅门口与私人庭院。"
+    }
+  },
+  {
+    "slug": "st-george-petrovaradin",
+    "name": {
+      "en": "St George’s Church in Petrovaradin",
+      "zh": "彼得罗瓦拉丁圣乔治教堂"
+    },
+    "localName": "Rimokatolička crkva Svetog Jurja",
+    "address": "Beogradska, Petrovaradin",
+    "area": "f",
+    "operator": "p",
+    "photo": "Saint_George_church_in_Petrovaradin.JPG",
+    "description": {
+      "en": "The Catholic church and former Jesuit complex anchor the Lower Town. Look for the Baroque frontage from Beogradska and ask the parish about interior or crypt access.",
+      "zh": "天主教堂与昔日耶稣会建筑群是下城的重要地标。从贝尔格莱德街观察巴洛克立面，进入内部或地窖须向堂区询问。"
+    },
+    "credit": {
+      "author": "Vanjagenije",
+      "license": "CC BY 3.0",
+      "url": "https://creativecommons.org/licenses/by/3.0"
+    },
+    "visitTip": {
+      "en": "The Lower Town also has an Orthodox church dedicated to St Paul. The two are separate congregations, so check the name of your destination before setting out.",
+      "zh": "下城另有一座供奉圣保禄的东正教堂。两处属于不同堂区，出发前请核对目的地名称。"
+    }
+  },
+  {
+    "slug": "st-paul",
+    "name": {
+      "en": "St Paul the Apostle Church",
+      "zh": "圣保禄宗徒教堂"
+    },
+    "localName": "Crkva Svetog apostola Pavla",
+    "address": "Vladimira Nazora, Petrovaradin",
+    "area": "f",
+    "operator": "o",
+    "photo": "Petrovaradin,_église_Saint-Paul_Apôtre.jpg",
+    "description": {
+      "en": "This Serbian Orthodox church is a separate Lower Town stop. Look for the painted exterior and combine the visit with a walk along Beogradska toward the fortress approach.",
+      "zh": "这座塞尔维亚东正教教堂位于下城，可独立游览。留意彩绘外墙，再沿贝尔格莱德街走向要塞入口。"
+    },
+    "credit": {
+      "author": "Nenad Seguljev - Original uploader was sr:Корисник:Schroeder at sr.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "authorZh": "Nenad Seguljev，原上传者为塞尔维亚语维基百科的 Schroeder"
+    },
+    "visitTip": {
+      "en": "Start at the public approach on Vladimira Nazora and look at the church before continuing toward the Upper Town. Sunday services may affect when visitors can step inside.",
+      "zh": "从弗拉迪米拉·纳佐拉街沿公共道路前往，看完教堂再去上城。周日礼拜可能影响游客入内时间。"
+    }
+  },
+  {
+    "slug": "underground-galleries",
+    "name": {
+      "en": "Underground Military Galleries",
+      "zh": "要塞地下军事廊道"
+    },
+    "localName": "Podzemne vojne galerije",
+    "address": "Tvrđava 4, Petrovaradin",
+    "area": "f",
+    "operator": "m",
+    "photo": "Petrovaradin_underground_02.jpg",
+    "description": {
+      "en": "The galleries survive from the fortress’s defensive network. Visit on a managed tour through the City Museum and ask about steps and narrow passages before booking.",
+      "zh": "地下廊道保留了历代要塞防御系统的遗迹。请通过城市博物馆参加导览，预约前询问台阶和狭窄通道情况。"
+    },
+    "credit": {
+      "author": "The original uploader was Nenad Seguljev at English Wikipedia .",
+      "license": "CC BY 2.5",
+      "url": "https://creativecommons.org/licenses/by/2.5",
+      "authorZh": "原上传者为英语维基百科的 Nenad Seguljev"
+    },
+    "visitTip": {
+      "en": "Meet the guide at the location confirmed by the museum. Wear shoes with grip and leave time for the uphill walk to the check-in point.",
+      "zh": "按博物馆通知的地点与导游会合。建议穿防滑鞋，并预留步行上坡到报到处的时间。"
+    }
+  },
+  {
+    "slug": "fortress-terrace",
+    "name": {
+      "en": "Upper Fortress Terrace",
+      "zh": "要塞上城观景露台"
+    },
+    "localName": "Terasa Petrovaradinske tvrđave",
+    "address": "Gornji grad, Petrovaradin",
+    "area": "f",
+    "operator": "public",
+    "photo": "Novi_Sad_panorama_from_Petrovaradin_Fortress.jpg",
+    "description": {
+      "en": "The terrace by the Officers’ Pavilion looks west over the river. Visit on the same climb as the clock and use the public parapet for a skyline photograph.",
+      "zh": "军官馆旁的露台朝西俯瞰多瑙河。可与钟楼一起游览，在公共护墙旁拍摄城市天际线。"
+    },
+    "credit": {
+      "author": "NinaZizakic",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "visitTip": {
+      "en": "The view is clearest when the air above the river is dry. After sunset, return via the signed public approach while it is still easy to see the paving.",
+      "zh": "河面上方空气干燥时视线较好。日落后可趁路面仍看得清，沿有指示牌的公共通道返回。"
+    }
+  },
+  {
+    "slug": "freedom-square",
+    "name": {
+      "en": "Freedom Square",
+      "zh": "自由广场"
+    },
+    "localName": "Trg slobode",
+    "address": "Trg slobode, Novi Sad",
+    "area": "c",
+    "operator": "public",
+    "photo": "Trg_Slobode.jpg",
+    "description": {
+      "en": "The square brings City Hall, the Name of Mary Church and the Miletić monument into one view. Approach from Zmaj Jovina and look back across the open space.",
+      "zh": "市政厅、圣母圣名教堂与米莱蒂奇纪念像在此相望。从兹迈约维纳街进入，到开阔处回望建筑群。"
+    },
+    "credit": {
+      "author": "Schroeder at Serbian Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "authorZh": "塞尔维亚语维基百科用户 Schroeder"
+    },
+    "visitTip": {
+      "en": "For an architectural walk, start at the town hall, cross to Katolička porta and finish by walking north along Zmaj Jovina.",
+      "zh": "若想散步看建筑，可由市政厅出发，过广场到圣母圣名教堂侧面，再沿兹迈约维纳街向北。"
+    }
+  },
+  {
+    "slug": "city-hall",
+    "name": {
+      "en": "Novi Sad City Hall",
+      "zh": "诺维萨德市政厅"
+    },
+    "localName": "Gradska kuća",
+    "address": "Trg slobode 1, Novi Sad",
+    "area": "c",
+    "operator": "h",
+    "photo": "NoviSad-TrgSlobode-GradskaKuća.jpg",
+    "description": {
+      "en": "The late nineteenth-century Neo-Renaissance civic building faces the square. Read the façade from the monument side, where the tower and the sculpted figures are visible together.",
+      "zh": "这座19世纪末的新文艺复兴建筑面向自由广场。从纪念碑一侧可同时观察塔楼和立面雕塑。"
+    },
+    "visitTip": {
+      "en": "Stand closer to the square’s centre for a straight-on composition. The building houses municipal offices, so treat the square as the reliable viewpoint.",
+      "zh": "走到广场中央附近可拍到较正的构图。市政厅内设办公机构，广场是更方便的观赏位置。"
+    },
+    "credit": {
+      "author": "Konrad Zieliński",
+      "license": "CC BY-SA 2.5 PL",
+      "url": "https://creativecommons.org/licenses/by-sa/2.5/pl/deed.en"
+    }
+  },
+  {
+    "slug": "name-of-mary",
+    "name": {
+      "en": "Name of Mary Church",
+      "zh": "圣母圣名教堂"
+    },
+    "localName": "Crkva imena Marijinog",
+    "address": "Katolička porta, Novi Sad",
+    "area": "c",
+    "operator": "p",
+    "photo": "The_Cathedral_in_the_centre_of_Novi_Sad.JPG",
+    "description": {
+      "en": "The Neo-Gothic Catholic parish church has a tall spire and a patterned roof. Walk around Katolička porta to change the angle and give services priority at the entrance.",
+      "zh": "这座新哥特式天主教堂以尖塔和彩色屋顶著称。沿教堂侧面的广场换个角度看屋顶，礼拜期间请为会众让行。"
+    },
+    "credit": {
+      "author": "Matjaž Zaplotnik",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "visitTip": {
+      "en": "Look for the roof tiles from the open square and the entrance details closer to the door. The church is convenient to visit before walking down Zmaj Jovina.",
+      "zh": "可先从广场看彩色瓦片，再靠近观察入口细节。看完教堂正好接着走兹迈约维纳街。"
+    }
+  },
+  {
+    "slug": "miletic-monument",
+    "name": {
+      "en": "Svetozar Miletić Monument",
+      "zh": "斯韦托扎尔·米莱蒂奇纪念像"
+    },
+    "localName": "Spomenik Svetozaru Miletiću",
+    "address": "Trg slobode, Novi Sad",
+    "area": "c",
+    "operator": "public",
+    "photo": "Svetozar_Miletic.jpg",
+    "description": {
+      "en": "Ivan Meštrović’s bronze figure commemorates the former Novi Sad mayor. Circle the plinth for a different relationship between the statue, City Hall and the church spire.",
+      "zh": "伊万·梅什特罗维奇创作的铜像纪念这位诺维萨德前市长。绕基座走一圈，可分别以市政厅与教堂尖塔为背景。"
+    },
+    "credit": {
+      "author": "Goldfinger at Serbian Wikipedia",
+      "license": "Public domain",
+      "url": "",
+      "authorZh": "塞尔维亚语维基百科用户 Goldfinger"
+    },
+    "visitTip": {
+      "en": "Use the named monument pin when meeting friends, as the same square also has several separate landmark pins.",
+      "zh": "约见时可使用纪念像的专属地图入口，自由广场上还有其他独立地标的标记。"
+    }
+  },
+  {
+    "slug": "zmaj-jovina",
+    "name": {
+      "en": "Zmaj Jovina Street",
+      "zh": "兹迈约维纳街"
+    },
+    "localName": "Zmaj Jovina",
+    "address": "Zmaj Jovina, Novi Sad",
+    "area": "c",
+    "operator": "public",
+    "photo": "Zmaj_Jovina_street.jpg",
+    "description": {
+      "en": "This pedestrian street runs between Freedom Square and the Bishop’s Palace. Look up above the shop signs to see the upper-storey windows and façade ornaments.",
+      "zh": "这条步行街连接自由广场与主教宫。经过店铺时抬头看看二楼窗户和外墙装饰。"
+    },
+    "credit": {
+      "author": "Alexzr88 at Serbian Wikipedia",
+      "license": "CC BY 2.5",
+      "url": "https://creativecommons.org/licenses/by/2.5",
+      "authorZh": "塞尔维亚语维基百科用户 Alexzr88"
+    },
+    "visitTip": {
+      "en": "Walk its full length and turn onto Dunavska at the palace end. The two streets offer different views of the old town within a single walk.",
+      "zh": "走完整条街，在主教宫一端转入多瑙街，一次步行就能看到两条老街不同的街景。"
+    }
+  },
+  {
+    "slug": "dunavska",
+    "name": {
+      "en": "Dunavska Street",
+      "zh": "多瑙街"
+    },
+    "localName": "Dunavska ulica",
+    "address": "Dunavska, Novi Sad",
+    "area": "c",
+    "operator": "public",
+    "photo": "Dunavska_ulica.JPG",
+    "description": {
+      "en": "Between the old centre and Danube Park, low façades line this historic street. Walk east toward the park and pause at the lane openings for views of the street’s changing scale.",
+      "zh": "老城到多瑙河公园之间，这条历史街道两侧排列着低层建筑。向东走，在侧巷入口停下来观察街道尺度的变化。"
+    },
+    "credit": {
+      "author": "Schroeder at Serbian Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "authorZh": "塞尔维亚语维基百科用户 Schroeder"
+    },
+    "visitTip": {
+      "en": "Pair the street with a museum visit or a park break. From the park end you can continue to the river without retracing the shopping stretch.",
+      "zh": "可将这条街与博物馆或公园休息安排在一起。走到公园一端后，可继续去河边，无需折返商店街。"
+    }
+  },
+  {
+    "slug": "danube-park",
+    "name": {
+      "en": "Danube Park",
+      "zh": "多瑙河公园"
+    },
+    "localName": "Dunavski park",
+    "address": "Dunavska and Bulevar Mihajla Pupina, Novi Sad",
+    "area": "c",
+    "operator": "z",
+    "photo": "Dunavski_Park_NS.JPG",
+    "description": {
+      "en": "The pond and paths offer a green pause between the city centre and the river. Enter from Dunavska and use the paths around the water to find the quieter side of the park.",
+      "zh": "池塘与步道为老城和河岸之间提供了一处休息地。由多瑙街入园，沿池塘绕行可找到较安静的一侧。"
+    },
+    "credit": {
+      "author": "Adrianicz",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "visitTip": {
+      "en": "A short circuit works well between museum visits. Leave by the south side for the boulevard or return to the edge of the old town via Dunavska.",
+      "zh": "两场博物馆参观之间可以在园内走一小圈。由南侧出园可接大道，也可经多瑙街回老城。"
+    }
+  },
+  {
+    "slug": "serbian-national-theatre",
+    "name": {
+      "en": "Serbian National Theatre",
+      "zh": "塞尔维亚国家剧院"
+    },
+    "localName": "Srpsko narodno pozorište",
+    "address": "Pozorišni trg 1, Novi Sad",
+    "area": "c",
+    "operator": "t",
+    "photo": "Serbian_National_Theatre_Sept_2005.jpg",
+    "description": {
+      "en": "Founded in 1861, the institution presents drama, opera and ballet. Cross Theatre Square to take in the modern theatre building and check the programme for an evening performance.",
+      "zh": "剧院机构创立于1861年，演出话剧、歌剧与芭蕾。穿过剧院广场欣赏现今的现代建筑，也可查节目表安排晚场演出。"
+    },
+    "visitTip": {
+      "en": "Check the performance language and ticket collection instructions when booking. The square is a convenient stop even if you have only time for the exterior.",
+      "zh": "订票时请查看演出语言和取票方式。若时间只够看外观，也可把剧院广场列入市中心步行路线。"
+    },
+    "credit": {
+      "author": "Francis Tyers, edited by CrniBombarder!!!",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "authorZh": "Francis Tyers 拍摄，CrniBombarder!!! 编辑"
+    }
+  },
+  {
+    "slug": "synagogue",
+    "name": {
+      "en": "Novi Sad Synagogue",
+      "zh": "诺维萨德犹太会堂"
+    },
+    "localName": "Novosadska sinagoga",
+    "address": "Jevrejska 11, Novi Sad",
+    "area": "c",
+    "operator": "y",
+    "photo": "NoviSadSynagogue014.jpg",
+    "description": {
+      "en": "The early twentieth-century synagogue complex has an elaborate central façade flanked by former community buildings. Check concert announcements if you want to see the interior.",
+      "zh": "20世纪初的会堂主体立面装饰繁复，两侧曾是社群建筑。想进入内部，可先查阅音乐会公告。"
+    },
+    "credit": {
+      "author": "No machine-readable author provided. Fransvannes assumed (based on copyright claims).",
+      "license": "Public domain",
+      "url": "",
+      "authorZh": "来源未提供可机读的作者信息，根据版权声明推定为 Fransvannes"
+    },
+    "visitTip": {
+      "en": "From Jevrejska, step back on the public sidewalk for a clear photo of the central entrance and the wings. Look up concert access separately from exterior viewing.",
+      "zh": "在犹太街公共人行道上稍退几步，便于将中央门廊与两翼纳入画面。音乐会入场安排需另行查询。"
+    }
+  },
+  {
+    "slug": "matica-srpska",
+    "name": {
+      "en": "Matica Srpska",
+      "zh": "塞尔维亚文艺学会"
+    },
+    "localName": "Matica srpska",
+    "address": "Matice srpske 1, Novi Sad",
+    "area": "c",
+    "operator": "s",
+    "photo": "Building_of_the_Matica_srpska,_Novi_Sad.jpg",
+    "description": {
+      "en": "The literary and scholarly society moved from Pest to Novi Sad in 1864. View its headquarters near the Nikolajevska Church and check the institution separately for public events.",
+      "zh": "这一文学与学术机构于1864年从佩斯迁至诺维萨德。总部邻近圣尼古拉教堂，公众活动可向学会查询。"
+    },
+    "credit": {
+      "author": "en:user:PANONIAN",
+      "license": "Public domain",
+      "url": ""
+    },
+    "visitTip": {
+      "en": "If walking from Freedom Square, follow the cathedral street north. The dark brick frontage provides an easy landmark near the small Orthodox church.",
+      "zh": "从自由广场出发，可沿座堂所在街道向北。文艺学会的砖石立面是小教堂附近容易识别的地标。"
+    }
+  },
+  {
+    "slug": "st-george-cathedral",
+    "name": {
+      "en": "St George’s Orthodox Cathedral",
+      "zh": "圣乔治东正教座堂"
+    },
+    "localName": "Saborna crkva Svetog Georgija",
+    "address": "Nikole Pašića 2, Novi Sad",
+    "area": "c",
+    "operator": "o",
+    "photo": "Saborna_crkva.JPG",
+    "description": {
+      "en": "The cathedral stands just off Zmaj Jovina beside the Bishop’s Palace. If the church is open to visitors, look for Paja Jovanović’s iconostasis paintings.",
+      "zh": "座堂离兹迈约维纳街不远，旁边是主教宫。如开放参观，可留意帕亚·约万诺维奇绘制的圣像屏。"
+    },
+    "credit": {
+      "author": "WikiEditor2004",
+      "license": "Public domain",
+      "url": ""
+    },
+    "visitTip": {
+      "en": "Use the cathedral’s Orthodox listing to avoid confusing it with the Catholic St George’s Church across the Danube.",
+      "zh": "导航时请认准“东正教座堂”，以免和多瑙河对岸的天主教圣乔治教堂混淆。"
+    }
+  },
+  {
+    "slug": "almaska-church",
+    "name": {
+      "en": "Almaška Church",
+      "zh": "阿尔马什卡教堂"
+    },
+    "localName": "Almaška crkva",
+    "address": "Almaška 15, Novi Sad",
+    "area": "c",
+    "operator": "o",
+    "photo": "Almaska_crkva.JPG",
+    "description": {
+      "en": "The Church of the Three Holy Hierarchs rises above the low streets of Almaški Kraj. Walk in from the old centre to see how the tower appears above the residential roofline.",
+      "zh": "三圣主教堂高出阿尔马什卡老街区的低矮房屋。从老城步行前往，可沿途观察钟塔如何从民居屋顶间显现。"
+    },
+    "credit": {
+      "author": "WikiEditor2004",
+      "license": "Public domain",
+      "url": ""
+    },
+    "visitTip": {
+      "en": "The surrounding lanes are worth a slow walk, particularly if you want to see a part of Novi Sad beyond the main pedestrian thoroughfare.",
+      "zh": "周边巷道适合慢走，尤其适合想看看主步行街以外诺维萨德街景的游客。"
+    }
+  },
+  {
+    "slug": "uspenska-church",
+    "name": {
+      "en": "Church of the Dormition",
+      "zh": "圣母安息教堂"
+    },
+    "localName": "Uspenska crkva",
+    "address": "Uspenska, Novi Sad",
+    "area": "c",
+    "operator": "o",
+    "photo": "Uspenska_crkva.JPG",
+    "description": {
+      "en": "The Baroque Orthodox church shares the Theatre Square area with the modern national theatre. Its tower and ornament make for a useful comparison between the two neighbouring buildings.",
+      "zh": "这座巴洛克风格的东正教教堂与现代国家剧院同在剧院广场附近。两座相邻建筑的塔楼、体量与装饰形成鲜明对照。"
+    },
+    "credit": {
+      "author": "No machine-readable author provided. WikiEditor2004 assumed (based on copyright claims).",
+      "license": "Public domain",
+      "url": "",
+      "authorZh": "来源未提供可机读的作者信息，根据版权声明推定为 WikiEditor2004"
+    },
+    "visitTip": {
+      "en": "After viewing the church from the square, continue toward Jevrejska for a short architectural walk linking the theatre and synagogue.",
+      "zh": "从广场看完教堂后，可往犹太街继续走，把剧院和犹太会堂串成一段建筑散步路线。"
+    }
+  },
+  {
+    "slug": "nikolajevska-church",
+    "name": {
+      "en": "Nikolajevska Church",
+      "zh": "圣尼古拉教堂"
+    },
+    "localName": "Nikolajevska crkva",
+    "address": "Nikole Pašića, Novi Sad",
+    "area": "c",
+    "operator": "o",
+    "photo": "Nikolajevska_crkva.JPG",
+    "description": {
+      "en": "This early Orthodox church stands near Matica Srpska. Its compact scale contrasts with St George’s Cathedral further down Nikole Pašića.",
+      "zh": "这座早期东正教教堂坐落于塞尔维亚文艺学会附近。沿尼科拉·帕西奇街对照游览圣乔治座堂，可看出两者规模差异。"
+    },
+    "credit": {
+      "author": "WikiEditor2004",
+      "license": "Public domain",
+      "url": ""
+    },
+    "visitTip": {
+      "en": "Leave a few minutes to compare this church with the nearby cathedral. If the doors are closed, the street frontage is easy to see from the public pavement.",
+      "zh": "可留几分钟对照附近的东正教座堂。若教堂关门，从公共人行道也能看到临街一面。"
+    }
+  },
+  {
+    "slug": "banovina",
+    "name": {
+      "en": "Banovina Palace",
+      "zh": "巴诺维纳宫"
+    },
+    "localName": "Banovina",
+    "address": "Bulevar Mihajla Pupina 16, Novi Sad",
+    "area": "c",
+    "operator": "b",
+    "photo": "Banovina_Palace,_Novi_Sad,_Vojvodina,_Serbia_-_20050516.jpg",
+    "description": {
+      "en": "Dragiša Brašovan’s government complex is a landmark of interwar architecture. Use the opposite public sidewalk to take in the long horizontal façade and rounded corner.",
+      "zh": "德拉吉沙·布拉绍万设计的行政建筑是两战之间的建筑地标。从大道对侧的人行道观察横向立面和圆弧转角。"
+    },
+    "credit": {
+      "author": "Lephafta at hu.wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "authorZh": "匈牙利语维基百科用户 Lephafta"
+    },
+    "visitTip": {
+      "en": "The long street frontage is easier to read from the opposite pavement. Use the designated crossing if you continue to Danube Park.",
+      "zh": "站在对侧人行道更容易看清完整临街立面。若接着前往多瑙河公园，请使用指定过街设施。"
+    }
+  },
+  {
+    "slug": "museum-vojvodina",
+    "name": {
+      "en": "Museum of Vojvodina",
+      "zh": "伏伊伏丁那博物馆"
+    },
+    "localName": "Muzej Vojvodine",
+    "address": "Dunavska 35–37, Novi Sad",
+    "area": "c",
+    "operator": "v",
+    "photo": "Museum_and_Archives_Complex_in_Novi_Sad_-_Kompleks_muzeja_i_arhiva_u_Novom_Sadu_01.jpg",
+    "description": {
+      "en": "Exhibits trace the region through archaeology, history and everyday objects. Ask which building houses the displays you want to see, including the museum’s Roman helmets.",
+      "zh": "馆藏以考古、历史和日常器物呈现地区变迁。若想看罗马头盔等展品，可先查清展厅位于哪一栋楼。"
+    },
+    "credit": {
+      "author": "BojanPavlukovic",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "visitTip": {
+      "en": "If short on time, pick a collection before arriving. The museum’s Dunavska entrances are close to Danube Park and easy to combine with a walk to the river.",
+      "zh": "时间有限时，可事先选好想看的馆藏。博物馆的多瑙街入口靠近公园，参观后可继续步行去河边。"
+    }
+  },
+  {
+    "slug": "pavle-beljanski",
+    "name": {
+      "en": "Pavle Beljanski Memorial Collection",
+      "zh": "帕夫莱·贝利安斯基纪念收藏馆"
+    },
+    "localName": "Spomen-zbirka Pavla Beljanskog",
+    "address": "Trg galerija 2, Novi Sad",
+    "area": "c",
+    "operator": "l",
+    "photo": "PavleBeljanskiNoviSad.jpg",
+    "description": {
+      "en": "The diplomatic collector’s gift provides an overview of twentieth-century Serbian and Yugoslav modern art. Pair the collection with the neighbouring galleries on Trg galerija.",
+      "zh": "这批由外交官捐赠的作品呈现20世纪塞尔维亚及南斯拉夫现代艺术。可与画廊广场的其他美术馆串联游览。"
+    },
+    "credit": {
+      "author": "Goran.Smith2",
+      "license": "CC BY-SA 2.5",
+      "url": "https://creativecommons.org/licenses/by-sa/2.5"
+    },
+    "visitTip": {
+      "en": "Trg galerija is the useful meeting point for this gallery. Check separate hours before combining two collections on a single afternoon.",
+      "zh": "画廊广场适合会合。若计划一个下午参观两处馆藏，请分别查询两个场馆的开放时间。"
+    }
+  },
+  {
+    "slug": "rajko-mamuzic",
+    "name": {
+      "en": "Rajko Mamuzić Fine Arts Gallery",
+      "zh": "拉伊科·马穆齐奇美术馆"
+    },
+    "localName": "Galerija likovne umetnosti poklon zbirka Rajka Mamuzića",
+    "address": "Vase Stajića 1, Novi Sad",
+    "area": "c",
+    "operator": "g",
+    "photo": "TheGalleryofFineArtsRajkoMamuzic.jpg",
+    "description": {
+      "en": "The donor collection focuses on artists who emerged in the postwar Yugoslav period. Enter from Vase Stajića and allow time to compare the work with the nearby Beljanski collection.",
+      "zh": "捐赠馆藏侧重于战后南斯拉夫艺坛涌现的艺术家。从瓦塞·斯塔伊奇街进入，可与附近的贝利安斯基馆对照参观。"
+    },
+    "credit": {
+      "author": "No machine-readable author provided. Goran.Smith2~commonswiki assumed (based on copyright claims).",
+      "license": "CC BY-SA 2.5",
+      "url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "authorZh": "来源未提供可机读的作者信息，根据版权声明推定为 Goran.Smith2~commonswiki"
+    },
+    "visitTip": {
+      "en": "The entrance is on Vase Stajića. If you are walking from Trg galerija, follow the map for the final turn rather than relying on the square’s main gallery doors.",
+      "zh": "入口位于瓦塞·斯塔伊奇街。从画廊广场步行过来时，跟随地图拐到该街，便可找到这座美术馆的独立入口。"
+    }
+  },
+  {
+    "slug": "quay",
+    "name": {
+      "en": "Belgrade Quay",
+      "zh": "贝尔格莱德河滨步道"
+    },
+    "localName": "Beogradski kej",
+    "address": "Beogradski kej, Novi Sad",
+    "area": "r",
+    "operator": "public",
+    "photo": "Beogradski_kej.JPG",
+    "description": {
+      "en": "On the city side of the Danube, this stretch gives a low, river-level view toward Petrovaradin. Keep to the pedestrian side of the promenade and continue toward Varadin Bridge.",
+      "zh": "这段多瑙河西岸步道可从接近水面的位置望向彼得罗瓦拉丁。沿人行区散步，可继续走到瓦拉丁桥。"
+    },
+    "credit": {
+      "author": "Micki",
+      "license": "CC BY 3.0",
+      "url": "https://creativecommons.org/licenses/by/3.0"
+    },
+    "visitTip": {
+      "en": "On a windy day, make this a short riverside stop before heading inland to Danube Park. Keep the bridge in view as a reference point.",
+      "zh": "风大时可短暂停留，随后转往内侧的多瑙河公园。散步时可用桥梁辨认方向。"
+    }
+  },
+  {
+    "slug": "raid-memorial",
+    "name": {
+      "en": "Memorial to the Victims of the Raid",
+      "zh": "突袭遇难者纪念碑"
+    },
+    "localName": "Spomenik žrtvama racije",
+    "address": "Kej žrtava racije, Novi Sad",
+    "area": "r",
+    "operator": "public",
+    "photo": "Zrtve_racije01.jpg",
+    "description": {
+      "en": "The riverside family sculpture commemorates victims of the January 1942 roundup and killings. Pause to read the memorial text on a quiet walk south of Varadin Bridge.",
+      "zh": "河畔的家庭群像纪念1942年1月搜捕与屠杀中的遇难者。从瓦拉丁桥向南步行，可在纪念碑前驻足阅读铭文。"
+    },
+    "credit": {
+      "author": "en:User:PANONIAN",
+      "license": "Public domain",
+      "url": ""
+    },
+    "visitTip": {
+      "en": "This is a memorial stop. Leave time to pause by the sculpture and continue the river walk from the public promenade.",
+      "zh": "这里是一处纪念场所。可在群像旁驻足片刻，再沿公共河滨步道继续散步。"
+    }
+  },
+  {
+    "slug": "strand",
+    "name": {
+      "en": "Štrand Beach",
+      "zh": "什特兰德河滩"
+    },
+    "localName": "Štrand",
+    "address": "Sunčani kej, Novi Sad",
+    "area": "r",
+    "operator": "z",
+    "photo": "Strand_Novi_Sad.jpg",
+    "description": {
+      "en": "Novi Sad’s Danube beach stretches by Liberty Bridge. Walk the waterfront, and check seasonal entry and on-site bathing notices before planning a swim.",
+      "zh": "这片多瑙河河滩靠近自由桥。可先沿水岸散步，有下水计划时请查看季节性入场规定和现场游泳告示。"
+    },
+    "credit": {
+      "author": "Wolfgang Hunscher, Dortmund",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "visitTip": {
+      "en": "Check for seasonal services if travelling outside summer. The public quay gives you another river viewpoint when beach facilities are closed.",
+      "zh": "夏季以外出行可先查询季节性服务。河滩设施关闭时，仍可从公共河滨步道欣赏河景。"
+    }
+  },
+  {
+    "slug": "liberty-bridge",
+    "name": {
+      "en": "Liberty Bridge",
+      "zh": "自由桥"
+    },
+    "localName": "Most slobode",
+    "address": "Bulevar oslobođenja / Mišeluk, Novi Sad",
+    "area": "r",
+    "operator": "public",
+    "photo": "Most_Slobode_1.jpg",
+    "description": {
+      "en": "The cable-stayed bridge spans the Danube beside Štrand. The riverside paths offer a clear view of its cable arrangement and link the bridge visually with the beach and Kamenica shore.",
+      "zh": "斜拉桥在什特兰德河滩旁跨越多瑙河。从河岸步道可观察斜拉索排列，并将河滩与卡梅尼察一侧河岸纳入同一画面。"
+    },
+    "credit": {
+      "author": "en:User:Goran.Smith2",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "visitTip": {
+      "en": "For photos of the entire span, use the quay beside Štrand or the Kamenica-side public paths. Select the correct riverbank before setting out.",
+      "zh": "想拍全桥，可选什特兰德旁的河滨路或卡梅尼察一侧的公共步道。出发前先选好要去的河岸。"
+    }
+  },
+  {
+    "slug": "kamenica-park",
+    "name": {
+      "en": "Kamenica Park",
+      "zh": "卡梅尼察公园"
+    },
+    "localName": "Kamenički park",
+    "address": "Kamenički park, Sremska Kamenica",
+    "area": "k",
+    "operator": "z",
+    "photo": "Kamenički_park_4.JPG",
+    "description": {
+      "en": "The wooded riverside grounds are tied to the former Marczibányi–Karátsonyi estate. Follow established paths from the Kamenica side for a shaded walk below Liberty Bridge.",
+      "zh": "这片河畔林地与昔日马尔齐巴尼—卡拉乔尼庄园有关。从卡梅尼察一侧循已有步道入园，可在自由桥下方的树荫中散步。"
+    },
+    "credit": {
+      "author": "Micki",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "visitTip": {
+      "en": "Allow extra time for the return uphill to the village, especially after rain when paths near the river can be muddy.",
+      "zh": "从河边返回村镇有上坡，宜多预留一些时间。雨后河边步道可能泥泞。"
+    }
+  },
+  {
+    "slug": "zmaj-museum",
+    "name": {
+      "en": "Jovan Jovanović Zmaj Memorial Museum",
+      "zh": "约万·约万诺维奇·兹迈纪念馆"
+    },
+    "localName": "Zmajev muzej",
+    "address": "Jovana Jovanovića Zmaja 1, Sremska Kamenica",
+    "area": "k",
+    "operator": "m",
+    "photo": "Zmajev_muzej,_Sremska_Kamenica_2.JPG",
+    "description": {
+      "en": "The poet and physician spent his final years in this house. Pair the museum with the village centre and contact the City Museum before travelling if the interior is your main goal.",
+      "zh": "这座故居是诗人兼医生兹迈度过晚年之处。可与村镇中心一起游览，如专程参观室内，出发前请联系城市博物馆。"
+    },
+    "credit": {
+      "author": "Micki",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "visitTip": {
+      "en": "Use the street address for the museum, which is distinct from the poet’s statue and other places in Novi Sad named after him.",
+      "zh": "请按故居的门牌地址导航，诗人雕像以及市区内其他以他命名的地点都在不同位置。"
+    }
+  },
+  {
+    "slug": "kovilj-monastery",
+    "name": {
+      "en": "Kovilj Monastery",
+      "zh": "科维尔修道院"
+    },
+    "localName": "Manastir Kovilj",
+    "address": "Manastirska, Kovilj",
+    "area": "k",
+    "operator": "o",
+    "photo": "Monastère_de_Kovilj.jpg",
+    "description": {
+      "en": "The Serbian Orthodox monastery lies beyond the city in the Danube lowlands. Set aside a separate trip and view the church and courtyard only where the monastic community admits visitors.",
+      "zh": "这座塞尔维亚东正教修道院位于市区外的多瑙河低地。宜单独安排往返行程，并按修道团体指引参观教堂与庭院。"
+    },
+    "credit": {
+      "author": "Original uploader was en:User:Luftburger at en.wikipedia Own work",
+      "license": "Public domain",
+      "url": "",
+      "authorZh": "原上传者为英语维基百科用户 Luftburger，来源标注为自行拍摄"
+    },
+    "visitTip": {
+      "en": "Keep the monastery and the surrounding wetlands as separate map stops if combining them. The road to the monastery is the appropriate approach for a first visit.",
+      "zh": "若想同时游览修道院与周边湿地，请分别设置两个地图目的地。初次来访可沿通往修道院的道路进入。"
+    }
+  }
+]

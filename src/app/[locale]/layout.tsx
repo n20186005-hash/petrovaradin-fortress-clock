@@ -18,9 +18,9 @@ export async function generateMetadata({
   // 默认加载通用翻译文件
   const messages = (await import(`@/messages/${locale}.json`)).default;
   
-  const baseUrl = 'https://petrovaradintower.com';
+  const baseUrl = 'https://www.petrovaradinfortressclock.com';
 
-  const zhUrl = `${baseUrl}/zh`;
+  const zhUrl = baseUrl;
   const enUrl = `${baseUrl}/en`;
   const selfUrl = locale === 'zh' ? zhUrl : enUrl;
 

@@ -1,5 +1,6 @@
 'use client';
 
+import { useParams } from 'next/navigation';
 import { useLocale } from 'next-intl';
 import { useRouter, usePathname } from '@/i18n/navigation';
 import { routing, type Locale } from '@/i18n/routing';
@@ -14,8 +15,9 @@ export default function LanguageToggle() {
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
+  const { slug } = useParams<{ slug?: string }>();
   const [open, setOpen] = useState(false);
-  const [isPending, startTransition] = useTransition();
+  const [, startTransition] = useTransition();
   const ref = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -34,8 +36,11 @@ export default function LanguageToggle() {
     if (next === locale) return;
 
     startTransition(() => {
-      // @ts-ignore
-      router.replace(pathname, { locale: next });
+      if (pathname === '/nearby/[slug]') {
+        if (slug) router.replace({ pathname, params: { slug } }, { locale: next });
+      } else {
+        router.replace(pathname, { locale: next });
+      }
     });
   }
 
@@ -48,7 +53,8 @@ export default function LanguageToggle() {
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={locale === 'zh' ? '切换语言' : 'Switch language'}
+        aria-expanded={open}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>
@@ -69,6 +75,7 @@ export default function LanguageToggle() {
           {routing.locales.map((loc) => (
             <button
               key={loc}
+              lang={loc}
               onClick={() => switchLocale(loc)}
               className="w-full text-left px-4 py-2.5 text-sm transition-colors"
               style={{

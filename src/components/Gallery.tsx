@@ -1,6 +1,6 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
@@ -22,6 +22,7 @@ const photos = [
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const zh = useLocale() === 'zh';
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [gridPage, setGridPage] = useState(0);
@@ -90,7 +91,7 @@ export default function Gallery() {
               <button
                 onClick={() => setGridPage(p => p - 1)}
                 className="absolute left-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
-                aria-label="Previous page"
+                aria-label={zh ? '上一页' : 'Previous page'}
               >
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                   <polyline points="15 18 9 12 15 6" />
@@ -101,7 +102,7 @@ export default function Gallery() {
               <button
                 onClick={() => setGridPage(p => p + 1)}
                 className="absolute right-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
-                aria-label="Next page"
+                aria-label={zh ? '下一页' : 'Next page'}
               >
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                   <polyline points="9 18 15 12 9 6" />
@@ -132,7 +133,7 @@ export default function Gallery() {
           <button
             onClick={closeLightbox}
             className="absolute top-4 right-4 w-10 h-10 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Close lightbox"
+            aria-label={zh ? '关闭大图' : 'Close lightbox'}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <line x1="18" y1="6" x2="6" y2="18" />
@@ -143,7 +144,7 @@ export default function Gallery() {
           <button
             onClick={(e) => { e.stopPropagation(); goToPrevious(); }}
             className="absolute left-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Previous photo"
+            aria-label={zh ? '上一张照片' : 'Previous photo'}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <polyline points="15 18 9 12 15 6" />
@@ -160,7 +161,7 @@ export default function Gallery() {
           <button
             onClick={(e) => { e.stopPropagation(); goToNext(); }}
             className="absolute right-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Next photo"
+            aria-label={zh ? '下一张照片' : 'Next photo'}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <polyline points="9 18 15 12 9 6" />

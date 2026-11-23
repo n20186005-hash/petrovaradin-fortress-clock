@@ -48,8 +48,8 @@ export default function PetrovaradinTransportSection() {
                 </svg>
               </div>
               <div className="flex-1">
-                <h3 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{t('bus.title')}</h3>
-                <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('bus.desc')}</p>
+                <h3 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{t('train')}</h3>
+                <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('trainDesc')}</p>
               </div>
             </div>
           </div>
