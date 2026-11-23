@@ -15,7 +15,6 @@ export function generateStaticParams() {
   return places.map(({ slug }) => ({ slug }));
 }
 
-export const dynamicParams = false;
 
 export async function generateMetadata({ params }: Props) {
   const { locale, slug } = await params;
